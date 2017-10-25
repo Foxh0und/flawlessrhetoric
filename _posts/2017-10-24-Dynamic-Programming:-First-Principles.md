@@ -124,7 +124,7 @@ Various economic problems, especially around stage based decision making can be 
 use of dynamic programming.
 <br><br>
 
-Michael Tick describes the following problem. A corporation owning a number of plants has funds to invest, 
+Michael Trick describes the following problem. A corporation owning a number of plants has funds to invest, 
 with each of the plants providing a number of proposals of what returns it can provide depending on how many 
 funds it is allocated. This problem can be solved quite nicely with dynamic programming [6].
 <br><br>
@@ -192,7 +192,7 @@ The map of cost to revenue, implements the memoisation aspect of the algorithm.
 <br><br>
            
             
-Whilst solvable, Tick makes several assumptions. Firstly, his solution assumes that each plant will have a 
+Whilst solvable, Trick makes several assumptions. Firstly, his solution assumes that each plant will have a 
 proposal enacted upon, and secondly, that we use all the funds with the remainder not included in the revenue
 created in the end.
 <br><br>
@@ -209,7 +209,7 @@ approach to dynamic programming, and aims only to introduce the concept of dynam
 - [3] D. Friedman and M. Want, Essentials of Programming Languages. MIT Press, 1999.
 - [4] "Fibonacci number", En.wikipedia.org, 2017. [Online]. Available: https://en.wikipedia.org/wiki/Fibonacci_number. [Accessed: 22- Oct- 2017].
 - [5] L. Fibonacci and L. Sigler, Fibonacci's Liber abaci. New York: Springer, 2003.
-- [6] M. Tick, "A Tutorial on Dynamic Programming", Mat.gsia.cmu.edu, 2017. [Online]. Available: http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html. [Accessed: 30- Oct- 2015].
+- [6] M. Trick, "A Tutorial on Dynamic Programming", Mat.gsia.cmu.edu, 2017. [Online]. Available: http://mat.gsia.cmu.edu/classes/dynamic/dynamic.html. [Accessed: 30- Oct- 2015].
 <br><br>
 
 The source code can be found [here](https://github.com/Foxh0und/dynamicprogramming).
