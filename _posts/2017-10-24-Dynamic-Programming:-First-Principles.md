@@ -52,11 +52,11 @@ and some are duplicates. The need for the problem to compute the same calculatio
 in the running time of the problem. Dynamic Programming aims to remove the need to compute the same calculations multiple times.
 <br><br>
 
-### Memorisation
-Memorisation, also known as caching, is a technique used in Computer Science, which stores the results of functions and calculations, 
-and uses them if the calculations are needed again. Due to the fact that memory is finite, memorisation is not feasible in all situations, 
+### Memoization
+Memoization, also known as caching, is a technique used in Computer Science, which stores the results of functions and calculations, 
+and uses them if the calculations are needed again. Due to the fact that memory is finite, memoization is not feasible in all situations, 
 and thus, needs to be used appropriately and sparingly, especially when it comes to large applications. Tail recursion [3], a variant of
-traditional recursion implements memorisation, which uses memorisation very economically.
+traditional recursion implements memoization, which uses memoization very economically.
 <br><br>
 
 ### Fibonacci: An elementary use of Dynamic Programming
@@ -101,7 +101,7 @@ number of four will compute the Fibonacci of two twice. The number of overlappin
 exponentially as the Fibonacci number is increased, and thus the running time to compute it.
 <br><br>
 
-We can use Dynamic Programming (and memorisation) to mitigate these unneeded computations, 
+We can use Dynamic Programming (and memoization) to mitigate these unneeded computations, 
 and define the Fibonacci Number of n as follows;
 <br><br>
 
@@ -115,7 +115,7 @@ and define the Fibonacci Number of n as follows;
 <br><br>
     
 This approach first checks if we have reached the desired number, if not, it computes the sequence. It will never
-call a number that has already been calculated, and will instead use memorisation and pass the previous
+call a number that has already been calculated, and will instead use memoization and pass the previous
 (to the current number we are at) two values to the function to calculate them.  
 <br><br>
 
@@ -169,7 +169,7 @@ This solution uses Tail Recursion. Each stage does its necessary calculations, t
 the next stage which is the natural solution to the problem. Each stage will asses it’s plant’s proposals
 compared to the available funds, and then pass its information to the next stage. Whilst the approach finds
 the best solution, it does not return the proposals used, only the possible revenue and the cost it will require.
-The map of cost to revenue, implements the memorisation aspect of the algorithm.
+The map of cost to revenue, implements the memoization aspect of the algorithm.
 <br><br>
 
     if first stage
