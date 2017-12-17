@@ -13,7 +13,7 @@ whereas I usually like to stick to a single country at a time.
 
 Come June of this year, I jumped on a plane bound for St Petersburg, and my adventure began. Whilst I did book a group experience, I was quite relieved to find out that I was actually still by myself, as no one had picked to go on the dates I did.
 
-![Nevsky Propsekt](https://imgur.com/WA1ys1A.jpg)
+![Nevsky Propsekt](https://i.imgur.com/WA1ys1A.jpg?1)
 My first destination was St Petersburg, formally known as Leningrad. I was staying in a little hostel right beside Nevsky Prospekt, one of the biggest in St Petersburg and very central.
 
 ![River](https://imgur.com/tUKMP66.jpg)
