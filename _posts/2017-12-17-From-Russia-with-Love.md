@@ -55,7 +55,7 @@ Now, time to catch the overnight train to Moscow. St Basils Cathederal, one of m
 ![SevenSisters](https://imgur.com/M3IGHeL.jpg)
 There are many awe inspiring buildings in Moscow. Here is one of the Seven Sisters, which are all over Moscow.
 
-![Worker and Kolkhoz Woman](https://imgur.com/hDnS0mb.jpg)
+![Worker and Kolkhoz Woman](https://i.imgur.com/hDnS0mb.jpg?1)
 Just like St Petersburg, there are large monuments everywhere, many a homage to the Soviet Union.
 This is the Worker and Kolkhoz Woman.
 
