@@ -36,13 +36,13 @@ We spent NYE out watching the fireworks at Taipei 101 (with what felt like the r
 ![Raifung](https://i.imgur.com/lolKrfT.jpg)
 We then moved on to Raifung, a city on the outskirts of Taipei as we travelled to Jiufen.
 
-![Jiufen View](https://i.imgur.com/lolKrfT.jpg)
+![Jiufen View](https://i.imgur.com/7TxsKBr.jpg)
 Jiufen city towards the north of the island on top of a mountain providing many wonderful views.
 
 ![Old Street](https://i.imgur.com/txSgAGl.jpg)
 One of the main attractions is the Old Street, with many old style shops and cafes. It is a long and windy road, with many interesting attractions to see.
 
-![Old Street Calm](https://i.imgur.com/txSgAGl.jpg)
+![Old Street Calm](https://i.imgur.com/Lbii0oZ.jpg)
 Thankfully, as we approached our hotel, it became a lot calmer.
 
 ![Teahouse](https://i.imgur.com/164PX1T.jpg)
