@@ -36,7 +36,7 @@ We spent NYE out watching the fireworks at Taipei 101 (with what felt like the r
 ![Raifung](https://i.imgur.com/lolKrfT.jpg)
 We then moved on to Raifung, a city on the outskirts of Taipei as we travelled to Jiufen.
 
-![Jiufen View](https://i.imgur.com/7TxsKBr.jpg)
+![Jiufen View](https://i.imgur.com/GRznJTv.jpg)
 Jiufen city towards the north of the island on top of a mountain providing many wonderful views.
 
 ![Old Street](https://i.imgur.com/txSgAGl.jpg)
