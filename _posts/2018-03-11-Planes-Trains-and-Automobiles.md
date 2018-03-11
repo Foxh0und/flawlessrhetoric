@@ -69,7 +69,7 @@ Next stop, Sun Moon Lake! It's a small resort like village in the middle of Taiw
 ![Together](https://i.imgur.com/eaRbFsM.jpg)
 This was high on both of our to-do lists, and we both really enjoyed it
 
-![Honey Moon Suite](https://i.imgur.com/4wZLmDH.jpg)
+![Honey Moon Suite](https://i.imgur.com/76FDjOo.jpg)
 We were upgraded to the honeymoon suite!
 
 ![New Friend](https://i.imgur.com/sp0I7N7.jpg)
