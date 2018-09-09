@@ -25,7 +25,7 @@ I collected the data for all knock out games since the 1994-95 season of the Cha
 
 ### The Count
 Whilst the total count does not show us anything particularly insightful, it is a good visualisation clearly showing the goals, and the obvious increase from the 2003-04 season. 
-![Count](https://github.com/Foxh0und/Away-Goal-Analysis/blob/master/Plots/Count.png)
+![Count](https://raw.githubusercontent.com/Foxh0und/Away-Goal-Analysis/master/Plots/Count.png)
 It is quite clear to see that the home goals have always been more prelevant than away goals. But does that mean that away goals are worth more?
 
 ### Away Goals Per Game
@@ -38,7 +38,7 @@ It begins quite low, with it only jumping above a single goal per game until the
 ### Away Goal Percentage
 The first graph shows that as seasons progress, the amount of goals scored is increasing during the knock out stages, but are they home or away goals?
 
-![Away Goal Percentage](https://github.com/Foxh0und/Away-Goal-Analysis/blob/master/Plots/AwayGoalPercent.png)
+![Away Goal Percentage](https://raw.githubusercontent.com/Foxh0und/Away-Goal-Analysis/master/Plots/AwayGoalPercent.png)
 
 Correlating with with the goals per game, we can see that at the beginning of the data, over 70% of the total amount of goals scored were by the home team, but as we move on away goals are taking up a larger proportion of the amount of goals scored. They however, are still not reaching the home goal tally. If we add a regression line too our plot, we again see that this percentage is increasing.
 
