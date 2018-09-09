@@ -6,7 +6,7 @@ tag: Data
 ---
 
 ## Introduction
-Recently, several managers, including two time UCL winners José Mourinho of Manchester United and Carlo Ancelloti of Napoli, as well as former Spain head coach Julen Lopetegui currently at Real Madrid, Juventus man and two time finalist Massimiliano Allegri, and Arsène Wenger formerly at Arsenal have called for a review of the away goal rule. Giorgio Marchetti, deputy general secretary of UEFA has confirmed that UEFA will "open a discussion" concerning the rule. Many coaches believe that it is no longer as difficult to score away from home [1]. After listening to the Guardian Football Weekly with Max, Barry, and Ellis discuss the topic, I decided to spend the international break wisely and take a closer look at the numbers.
+Recently, several managers, including two time UCL winners José Mourinho of Manchester United and Carlo Ancelloti of Napoli, as well as former Spain head coach Julen Lopetegui currently at Real Madrid, Juventus man and two time finalist Massimiliano Allegri, and Arsène Wenger formerly at Arsenal have called for a review of the away goal rule. Giorgio Marchetti, deputy general secretary of UEFA has confirmed that UEFA will "open a discussion" concerning the rule. Many coaches believe that it is no longer as difficult to score away from home [1]. After listening to the Guardian Football Weekly with Max, Barry, and Elis discuss the topic, I decided to spend the international break wisely and take a closer look at the numbers.
 <br><br>
 ### The Rule
 The away goal is currently used for breaking ties in many football competitions, including in the UEFA Champions League. According to FIFA's Law of the game, "Competition  rules  may  provide  that  where  teams  play  each  other  
