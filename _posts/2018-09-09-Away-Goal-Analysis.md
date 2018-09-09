@@ -31,7 +31,7 @@ It is quite clear to see that the home goals have always been more prelevant tha
 ### Away Goals Per Game
 Here we can see the amount of away goals per game (on average).
 
-![Away Goals Per Game](https://github.com/Foxh0und/Away-Goal-Analysis/blob/master/Plots/PerGame.png)
+![Away Goals Per Game](https://raw.githubusercontent.com/Foxh0und/Away-Goal-Analysis/master/Plots/PerGame.png)
 
 It begins quite low, with it only jumping above a single goal per game until the 1998-1999 winning season. We can see that towards the tail end of the 2000s, there was on average at least one away goal scored per game, with 2011-12 and 2015-16 outliers. Applying a regression line to this graph gives clear indication that the amount of away goals per game is increasing. 
 
