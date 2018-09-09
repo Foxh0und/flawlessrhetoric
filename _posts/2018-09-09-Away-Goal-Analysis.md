@@ -27,7 +27,7 @@ I collected the data for all knock out games since the 1994-95 season of the Cha
 Whilst the total count does not show us anything particularly insightful, it is a good visualisation clearly showing the goals, and the obvious increase from the 2003-04 season.
 <br>
 ![Count](https://raw.githubusercontent.com/Foxh0und/Away-Goal-Analysis/master/Plots/Count.png)
-It is quite clear to see that the home goals have always been more prelevant than away goals. But does that mean that away goals are worth more?
+It is quite clear to see that the home goals have always been more prevelant than away goals. But does that mean that away goals are worth more?
 <br>
 ### Away Goals Per Game
 Here we can see the amount of away goals per game (on average).
