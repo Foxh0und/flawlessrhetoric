@@ -34,21 +34,21 @@ Here we can see the amount of away goals per game (on average).
 <br>
 ![Away Goals Per Game](https://raw.githubusercontent.com/Foxh0und/Away-Goal-Analysis/master/Plots/PerGame.png)
 <br>
-It begins quite low, with it only jumping above a single goal per game until the 1998-1999 winning season. We can see that towards the tail end of the 2000s, there was on average at least one away goal scored per game, with 2011-12 and 2015-16 as outliers. Applying a regression line to this graph indicates that the amount of away goals per game is increasing. 
+It begins quite low, with it only jumping above a single goal per game until the 1998-1999 winning season. We can see that towards the tail end of the 2000s, there was on average at least one away goal scored per game, with 2011-12 and 2015-16 as outliers. Applying a line to this graph indicates that the amount of away goals per game is increasing. 
 <br><br>
 ### Away Goal Percentage
 The first graph shows that as seasons progress, the amount of goals scored is increasing during the knock out stages, but are they home or away goals?
 <br>
 ![Away Goal Percentage](https://raw.githubusercontent.com/Foxh0und/Away-Goal-Analysis/master/Plots/AwayGoalPercent.png)
 <br>
-Correlating with the goals per game, we can see that at the beginning of the data, over 70% of the total amount of goals scored were by the home team, but as we move on away goals are taking up a larger proportion of the amount of goals scored. They however, are still not reaching parity with the home goal tally. If a regression line is added too our plot, we again see that this percentage is increasing.
+Correlating with the goals per game, we can see that at the beginning of the data, over 70% of the total amount of goals scored were by the home team, but as we move on away goals are taking up a larger proportion of the amount of goals scored. They however, are still not reaching parity with the home goal tally. If a regression line is added to our plot, we again see that this percentage is increasing.
 <br><br>
 ## Conclusion
 After looking at the numbers for the last 23 seasons, it is clear to see that more and more away goals are scored, indicating that the coaches may be correct, it does appear easier to score away from home, and thus, they really should not count for double. 
 <br>
 I do not mind the use of the away goal rule, but I have seen it ruin ties. A team may only be a goal down on aggregate, but because of the rule, need to score two goals in a matter of five minutes. This often kills the game, as the optimism of the players is all but gone. 
 <br>
-I do think it is clear that resent trends show that more away goals are being scored, and should definitely not count as double.
+I do think it is clear that recent trends show that more away goals are being scored, and should definitely not count as double.
 <br><br>
 
 
