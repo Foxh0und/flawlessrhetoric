@@ -16,7 +16,7 @@ goals scored at the ground of the opposing team will count double." [2].
 In simpler terms, by the final whistle of normal time of the second game in a tie, if both teams are level on goals, and if one team has scored more goals away from home than the other, they will advance. If both teams are still tied, then they will advance to extra time.
 <br><br>
 ### History and Impact
-The away goal rule was first introduce by UEFA in the 1965 UEFA Cup Winners Cup [3]. Recently, it has not been overly influential. Since the beginning of the knock out legs in the 1994-95 UEFA Champions League, only one team has ever benefited from the rule, and subsequently gone on to win the competition. This was German side FC Bayern München during the 2012-13 season where they met Arsenal in the round of 16[4].
+The away goal rule was first introduced by UEFA in the 1965 UEFA Cup Winners Cup [3]. Recently, it has not been overly influential. Since the beginning of the knock out legs in the 1994-95 UEFA Champions League, only one team has ever benefited from the rule, and subsequently gone on to win the competition. This was German side FC Bayern München during the 2012-13 season where they met Arsenal in the round of 16[4].
 <br><br>
 ## A Look at the Numbers
 
