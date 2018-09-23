@@ -94,7 +94,7 @@ For example;
 <br><br>
 
 This poses a problem. Computing a Fibonacci number greater than two will force overlapping sub problems.
-![fibonacci of four](https://i.imgur.com/T3olAmi.png)
+![fibonacci of four](https://raw.githubusercontent.com/Foxh0und/dynamicprogramming/master/Diagrams/Tree.png)
 
 The figure above represents the structure of the Fibonacci sequence of four. The Fibonacci
 number of four will compute the Fibonacci of two twice. The number of overlapping sub problems will grow
@@ -163,7 +163,7 @@ if any funds remain, we access the revenue from the previous stage for the remai
 temporary variable. It is then checked against the previous stage’s revenue for that cost. If it is greater, 
 then it is the new revenue for that cost, if not, we get use the previous stage’s revenue for that cost. 
 
-![UML](https://i.imgur.com/y22pJjW.png)
+![UML](https://raw.githubusercontent.com/Foxh0und/dynamicprogramming/master/Diagrams/Class%20UML.png)
 
 This solution uses Tail Recursion. Each stage does its necessary calculations, then passes its information to 
 the next stage which is the natural solution to the problem. Each stage will asses it’s plant’s proposals
