@@ -20,12 +20,14 @@ The problem revolves around five philosophers sitting at a round table. Separati
 <br><br>
 
 However, this is where the problem occurs. Say each philosopher has picked up their left fork. This is where a deadlock has transpired. None of the philosophers can eat, as their right fork has been picked up by the philosopher to their right, and they are all stuck in a state of limbo waiting for their right fork, and hence, they starve to death.
+
 <br>
 When originally conceived in 1965, the difficulties were often related to access to external peripherals such as tape drives, however these hazards of deadlocks and synchronisation are amplified in many more complex scenarios such as database access and lower level kernel operations.
 
 <br><br>
 ## Solution
 What happens if we take one philosopher out of the picture, yet leave the same number of forks? At least one philosopher will be able to eat, and when finished, the next one and so forth that is waiting to acquire one of the forks that the first philosopher had been using an so forth. However, this would be unfair to the philosopher removed from the picture, and they would eventually starve. 
+
 <br>
 To counter this, we introduce mediator, a waiter so to speak. If the waiter only allows up to four of the five philosophers the option to pick up the fork, then we have solved the first part of the problem. Once the first philosopher has finished eating and has returned to think signalling the waiter that he has finished, then the unlucky philosopher that was not allowed to reach for his forks can begin, and the first one will have to wait. 
 
