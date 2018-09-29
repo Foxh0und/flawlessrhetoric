@@ -13,10 +13,10 @@ The problem, especially considering Dijkstra's original exam question, is design
 <br><br>
 ## The Problem
 The problem revolves around five philosophers sitting at a round table. Separating each philosopher on either side is a fork. To avoid starvation, the philosophers must eat, and whilst not, they must think. To eat, a philosopher must have both his left and right fork in either hand.
-<br>
+<br><br>
 ![Problem](https://raw.githubusercontent.com/Foxh0und/dining-philosphers/master/Images/Problem.jpg)
 [3] Dining Philosophers
-<br>
+<br><br>
 However, this is where the problem occurs. Say each philosopher has picked up their left fork. This is where a deadlock has transpired. None of the philosophers can eat, as their right fork has been picked up by the philosopher to their right, and they are all stuck in a state of limbo waiting for their right fork, and hence, they starve to death.
 <br>
 When originally conceived in 1965, the difficulties were often related to access to external peripherals such as tape drives, however these hazards of deadlocks and synchronisation are amplified in many more complex scenarios such as database access and lower level kernel operations.
