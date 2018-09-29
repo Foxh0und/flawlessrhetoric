@@ -6,7 +6,7 @@ tag: Algorithm
 ---
 
 ## Introduction
-Dining philosophers is a classic problem that was first introduced by famous computer scientist Edsger Dijkstra for an exam exercise, built around the concept of multiple computers competing for access to peripherals [1]. However it was only formalised with the philosophers much later by Sir Tony Hoare, most famous for his invention of the quick sort algorithm [2]. 
+Dining Philosophers is a classic problem that was first introduced by famous computer scientist Edsger Dijkstra for an exam exercise, built around the concept of multiple computers competing for access to peripherals [1]. However it was only formalised with the philosophers much later by Sir Tony Hoare, most famous for his invention of the quick sort algorithm [2]. 
 <br>
 The problem, especially considering Dijkstra's original exam question, is designed to depict synchronisation issues in concurrent systems and how deadlocks can occur, demonstrating mechanisms for avoiding them. 
 
