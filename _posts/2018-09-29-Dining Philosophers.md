@@ -48,7 +48,7 @@ Each fork is a semaphore, as only one philosopher can acquire it at a time.
 ### Philosopher
 The philosopher is an object that takes three references. Two mutex's signalling the left and right fork, and a semaphore, for the waiter. It begins by thinking, then will attempt to pickup the forks, by first acquiring the waiter, and then each fork. Once it has acquired the semaphore and then the two mutexs, it will eat, and then release them. This cycling will run indefinitely. 
 <br>
-![class diagram](https://raw.githubusercontent.com/Foxh0und/dining-philosphers/master/Images/Class%20Diagram.png)
+[class diagram](https://raw.githubusercontent.com/Foxh0und/dining-philosphers/master/Images/Class%20Diagram.png)
 <br>
 
 ## Conclusion
