@@ -9,6 +9,7 @@ tag: Algorithm
 Dining Philosophers is a classic problem that was first introduced by famous computer scientist Edsger Dijkstra for an exam exercise, built around the concept of multiple computers competing for access to peripherals [1]. However it was only formalised with the philosophers much later by Sir Tony Hoare, most famous for his invention of the quick sort algorithm [2]. 
 <br>
 The problem, especially considering Dijkstra's original exam question, is designed to depict synchronisation issues in concurrent systems and how deadlocks can occur, demonstrating mechanisms for avoiding them. 
+<br><br>
 
 ## The Problem
 The problem revolves around five philosophers sitting at a round table. Separating each philosopher on either side is a fork. To avoid starvation, the philosophers must eat, and whilst not, they must think. To eat, a philosopher must have both his left and right fork in either hand.
@@ -19,11 +20,13 @@ The problem revolves around five philosophers sitting at a round table. Separati
 However, this is where the problem occurs. Say each philosopher has picked up their left fork. This is where a deadlock has transpired. None of the philosophers can eat, as their right fork has been picked up by the philosopher to their right, and they are all stuck in a state of limbo waiting for their right fork, and hence, they starve to death.
 <br>
 When originally conceived in 1965, the difficulties were often related to access to external peripherals such as tape drives, however these hazards of deadlocks and synchronisation are amplified in many more complex scenarios such as database access and lower level kernel operations.
+<br><br>
 
 ## Solution
 What happens if we take one philosopher out of the picture, yet leave the same number of forks? At least one philosopher will be able to eat, and when finished, the next one and so forth that is waiting to acquire one of the forks that the first philosopher had been using an so forth. However, this would be unfair to the philosopher removed from the picture, and they would eventually starve. 
 <br>
 To counter this, we introduce mediator, a waiter so to speak. If the waiter only allows up to four of the five philosophers the option to pick up the fork, then we have solved the first part of the problem. Once the first philosopher has finished eating and has returned to think signalling the waiter that he has finished, then the unlucky philosopher that was not allowed to reach for his forks can begin, and the first one will have to wait. 
+<br><br>
 
 ## Solution Design
 A solution using the aformentioned approach involving a mediator was developed using C#.
@@ -50,6 +53,7 @@ The philosopher is an object that takes three references. Two mutex's signalling
 <br>
 [class diagram](https://raw.githubusercontent.com/Foxh0und/dining-philosphers/master/Images/Class%20Diagram.png)
 <br>
+<br><br>
 
 ## Conclusion
 The Dining Philosopher problem is a classic example detailing on a high level how concurrency issues can be very problematic in computing, with the mediator demonstrating one simple way that it can be overcome. However, this is not the most efficient method, and work could be done to improve the solution so that the optimal number of forks are in use at any given time. 
