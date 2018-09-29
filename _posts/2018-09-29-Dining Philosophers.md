@@ -34,8 +34,8 @@ To counter this, we introduce mediator, a waiter so to speak. If the waiter only
 <br><br>
 ## Solution Design
 A solution using the aformentioned approach involving a mediator was developed using C#.
-<br>
 
+<br>
 ### Active Object
 An abstract class designed to conceal the thread that it's built upon for the classes that implements it. Has the option to be started when instantiated. The thread allows the objects to run concurrently with others. It also receives a name. 
 
