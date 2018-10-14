@@ -11,7 +11,7 @@ During August, we travelled to Madagascar, an island just off the coast of Mozam
 Whilst probably most known in the Western World for the eponymous DreamWorks film, Madagascar is the 51st most populous country in the world (as of 1 July 2017), with 25 and a half million people calling it home. It is the 46th largest country by landmass, bigger than Spain, Japan, Germany, the United Kingdom, as well 145 others. From early in the 1800s the country was ruled by a series of nobles, but this ended in 1897 when it was annexed as part of the French Empire up until 1960 when it gained independence. Since 1992 the nation has been governed as a democracy.
 
 <br><br>
-## Amenities 
+## Essentials 
 
 ### Language
 Malagasy is the predominant language, with many of the locals fluent in French. We however had no trouble at all with English, many people spoke it, and there were only a handful of instances where we were in situations where no one did. Even then communication was still achievable. 
@@ -43,7 +43,7 @@ Despite a setback in transit, our flights (MEL -> HKG -> JNB -> TNR) were fine, 
 
 <br>
 We only spent a single night in Tana, and moved on to do a tour of the eastern region.
-
+<br>
 ### Andasbie Tour
 We went on a three day tour of the east with Madagascar [Tour Guide](http://www.madagascar-tour-guide.com/madagascar_east_indri_tours_guide.html). We were picked up from our hotel early in the morning, and headed east along the RN2 route. 
 
