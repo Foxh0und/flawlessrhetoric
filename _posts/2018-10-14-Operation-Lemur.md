@@ -86,7 +86,7 @@ We stayed at Hotel Le Thermes, an old colonial styled hotel, that whilst dated, 
 ![Hotel Le Thermes](https://i.imgur.com/pouxsZL.jpg)
 
 <br>
-My favourite part of the trip was being able to support my blues as we kicked off the season with a good win!
+I loved being able to support my blues as we kicked off the season with a good win!
 
 ![Chelsea CRT](https://i.imgur.com/onVzppD.jpg)
 
@@ -138,7 +138,7 @@ Another two hours or so, we were in Ihosy. The roads from here are very flat and
 
 <br>
 #### Isalo National Park
-Isalo is not too far from Isalo, and we arrived in just under two hours of driving. The roads again were very pleasant to drive. The national park is a large expanse of rock formations, canyons, palm oases, and grass lands. It was by far my favourite place on the trip. There are many luxury resorts, and we stayed at [Le Jardin Du Roy](http://www.lejardinduroy.com/). Whilst it was more expensive than the rest of the places we stayed, it was still cheap for two people, and food and drink were still cheap.
+Isalo is not too far from Ihosy, and we arrived in just under two hours of driving. The roads again were very pleasant to drive. The national park is a large expanse of rock formations, canyons, palm oases, and grass lands. It was by far my favourite place on the trip. There are many luxury resorts, and we stayed at [Le Jardin Du Roy](http://www.lejardinduroy.com/). Whilst it was more expensive than the rest of the places we stayed, it was still cheap for two people, and food and drink were still cheap.
 
 <br>
 ![Le Jardin](https://i.imgur.com/26woRG3.jpg)
