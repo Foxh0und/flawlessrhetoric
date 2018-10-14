@@ -210,6 +210,12 @@ On our last full day, we ventured out of the city, and visited the Queen's Palac
 ![View](https://i.imgur.com/NUJwRm8.jpg)
 
 <br>
+After visting this, we went to Parc de Tsarasaotara, a bird reserve in the heart of the city. It was really peaceful.
+
+<br>
+![Parc de Tsarasaotara](https://i.imgur.com/wXyKI6D.jpg)
+
+<br>
 The next day we caught our first plane home. The traffic to the airport can be quite bad, so make sure you leave plenty of time to get there.
 
 <br>
