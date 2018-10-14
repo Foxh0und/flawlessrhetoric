@@ -28,6 +28,10 @@ Things were generally quite cheap. A 1.5L bottle of mineral water was around 200
 ### Organization
 We booked all our hotels bar Tsara Camp through [Booking.com](booking.com), and the tours and car hire directly through the companies themselves. 
 
+<br>
+### Communications
+We purchased a SIM card from [Telma](http://www.telma.mg/), about $60 for 10GB of data. Most of the island is covered with 4G, but in remote areas between towns there was no reception. I highly recommend getting a SIM card, if only for google maps. Being able to translate menu's was really useful in places where the menus were only in French or Malagasy.
+
 
 <br><br>
 ## Our Journey
