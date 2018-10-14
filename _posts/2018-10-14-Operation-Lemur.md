@@ -205,7 +205,7 @@ We had two more nights before flying out, and stayed in a little guest house in 
 On our last full day, we ventured out of the city, and visited the Queen's Palace and the Presidential Museum. The palace is situated on a hill overlooking the city.
 
 <br>
-![Queens Palace](https://i.imgur.com/4wYObN0.jpg)
+![QueensPalace](https://i.imgur.com/4wYObN0.jpg)
 
 ![View](https://i.imgur.com/NUJwRm8.jpg)
 
@@ -213,7 +213,7 @@ On our last full day, we ventured out of the city, and visited the Queen's Palac
 After visting this, we went to Parc de Tsarasaotara, a bird reserve in the heart of the city. It was really peaceful.
 
 <br>
-![Parc de Tsarasaotara](https://i.imgur.com/wXyKI6D.jpg)
+![ParcdeTsarasaotara](https://i.imgur.com/wXyKI6D.jpg)
 
 <br>
 The next day we caught our first plane home. The traffic to the airport can be quite bad, so make sure you leave plenty of time to get there.
