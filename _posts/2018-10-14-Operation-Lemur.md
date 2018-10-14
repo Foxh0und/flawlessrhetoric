@@ -109,7 +109,7 @@ The next day, we went hiking through Ranomofana's national park. It was a truly 
 
 <br>
 Once again, we are able to see many Lemur's
-![Lemur](https://i.imgur.com/aG2rMXm.jpg)
+![Lemur](https://i.imgur.com/ppQYHiP.jpg)
 
 <br>
 As well, as a ring tailed mongoose. 
