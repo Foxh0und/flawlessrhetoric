@@ -190,13 +190,14 @@ If you look closely you can see the top of the mountain resembles a chameleon.
 
 ![friend](https://i.imgur.com/kINDPGI.jpg)
 
+<br>
 #### Antsirabe Revisited
 After staying here, we went back to Antsirabe. This was by far the longest drive in the trip, and with the 45 minutes on the dirt road to get back to the RN7 from Tsara camp, it took quite a while. The drive took 9 hours, and we stopped off for lunch at Ambositra. We highly recommend this, as there are many famous art shops, s the city is famous for it's wood carving industry. If I could have bought back some larger furniture, I would've. 
 
 <br>
 In Antsirabe, we stayed at [Souimanga](https://www.booking.com/hotel/mg/souimanga.en-gb.html?aid=390156;label=duc511jc-hotel-XX-mg-souimanga-unspec-au-com-L%3Aen-O%3Ax11-B%3Afirefox-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=ede684a3d6d5f4b93288675448061a6f;dist=0&keep_landing=1&sb_price_type=total&type=total&), a beautiful guest house on the outskirts of Antsirabe. It was really wonderful, the food was fantastic, and it has a wonderful garden. We stayed here for a night before driving back to Antananarivo.
 
-
+<br>
 ### Last Nights in Tana
 We had two more nights before flying out, and stayed in a little guest house in the city named [Chez Aina](http://www.chezaina.com/?lang=fr). It was stunning, the staff were fantastic, and it was very comfortable. There a handful of animals in the garden, including some tortoises!
 
