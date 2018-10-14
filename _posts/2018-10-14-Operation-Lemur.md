@@ -105,20 +105,20 @@ Once again, we are able to see many Lemur's
 
 <br>
 As well, as a ring tailed mongoose. 
-[Mongoose](https://i.imgur.com/SHx48w8.jpg)
+![Mongoose](https://i.imgur.com/SHx48w8.jpg)
 
-[Ranomofana River](https://i.imgur.com/n6d9pQb.jpg)
+![Ranomofana River](https://i.imgur.com/n6d9pQb.jpg)
 
-[Ranomofana](https://i.imgur.com/aG2rMXm.jpg)
+![Ranomofana](https://i.imgur.com/aG2rMXm.jpg)
 
 
 #### Anju Reserve and Ihosy
 After a couple of days, we left Ranomofana, went back up the road we entered on and continued heading south on the RN7. Roughly 12KM after passing through Ambalavao is Anju reserve. It's only a two hour stop off, and is a small national park with amazing rock formations and caves to climb. A guide is required, and there is a tourist check in when you get there. 
 
 <br>
-[Imgur](https://i.imgur.com/5RsVbXR.jpg)
+![Imgur](https://i.imgur.com/5RsVbXR.jpg)
 
-[Imgur](https://i.imgur.com/Jb0P5O0.jpg)
+![Imgur](https://i.imgur.com/Jb0P5O0.jpg)
 
 <br>
 Another two hours or so, we were in Ihosy. The roads from here are very flat and straight, providing much easier driving, and we were able to cover much more distance. We stayed at Tiana resort, a nice little hotel with bungalows. It's about 10KM after Ihosy itself. It was cheap, clean, the food was fantastic, and the staff were exceptional. Whilst there is not a lot to do, this is a great place to stay for a night to break up the driving.
