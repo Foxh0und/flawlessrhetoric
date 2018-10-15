@@ -163,7 +163,7 @@ Once you get to Tuléar, it is about a 25 minutes drive along the coast north-we
 
 ![Ifaty](https://i.imgur.com/czZnOWt.jpg)
 
-![PrincessDuLagon](https://imgur.com/AmDfEGC)
+![PrincessDuLagon](https://imgur.com/AmDfEGC.jpg)
 
 <br>
 A few places down on the beach from us was [Villa Maroloko](www.maroloko.com). They had an amazing restaurant and bar. We spent a lot of time here, and the owner was really nice. It looked like a great alternative to stay. It was really cool being able to watch the Chelsea game right on the beach!
