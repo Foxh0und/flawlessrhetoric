@@ -14,14 +14,15 @@ I've used data from [Co2 Datasets](https://www.co2.earth/historical-co2-datasets
 <br>
 When plotted with GGPlot, the library does everything for us and gives a nice plot, whilst simplyifying the X-Axis.
 
-<br>  
-    ggplot( data = lDataMelt, aes( year, y = value, group = variable ) ) +
-    geom_line( color = "steelblue" ) +
-    ggtitle("Average Co2 Levels") +
-    ylab( "Co2" ) +
-    xlab( "Year" ) +
-    theme( plot.title = element_text( hjust = 0.5 ) )
-  
+<br> 
+```R
+ggplot( data = lDataMelt, aes( year, y = value, group = variable ) ) +
+geom_line( color = "steelblue" ) +
+ggtitle("Average Co2 Levels") +
+ylab( "Co2" ) +
+xlab( "Year" ) +
+theme( plot.title = element_text( hjust = 0.5 ) )
+```
 <br>
 ![Vanilla Plot](https://raw.githubusercontent.com/Foxh0und/X-Axis-Tick-Manipulation/master/Plots/VanillaPlot.png)
 
