@@ -4,7 +4,6 @@ title: "X-Axis Tick Manipulation"
 description: "Playing with labels in GGPlot2 and R"
 tag: coding
 ---
-
 [GGPlot2](https://ggplot2.tidyverse.org/) is a fantastic library that allows you to build many complex graphs in R.
 However, it is a very powerful and complex tool that requires a lot of practise to master. Like anything, it has it's own quirks.
 
