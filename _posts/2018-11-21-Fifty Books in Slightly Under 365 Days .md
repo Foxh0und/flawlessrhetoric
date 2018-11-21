@@ -52,7 +52,7 @@ Another classic I was very keen to read was John W Cambpell Jr's Who Goes There,
 The Kurt Russell classic, The Thing. The book felt rushed, the writing wasn’t clear, and at times the characters blended into each other. It felt like a small sized novel squashed into a short story. I feel that it would have benefited from more depth with more character and location development. [Full Review](https://www.goodreads.com/review/show/1830083460?book_show_action=false&from_review_page=1).
 
 <br><br>
-### Non Fiction
+## Non Fiction
 This year I seemed to read several non-fiction books, including Sapiens and it's follow up, Homo Deus by Yuval Noah Horari, The Panama Papers, and Bad Blood.
 
 <br>
