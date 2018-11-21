@@ -7,11 +7,11 @@ tag: reading
 I've been tracking my reading for the last couple of years using Goodreads and find it to be a great platform. They heavily promote reading through the reading challenge. It can be set to any number of books, but by default is 50. For the last two years prior to 2018 my target has been 20-25. 
 
 <br>
-My girlfriend is a very active reader, and this coupled with a forum I visit encouraged me to challenge myself to hit 50 books in a calendar year, something I once considered impossible for myself. Part of the challenge was also racing my girlfriend to hit 50. I managed to to hit this on the 6th of November. Lucie did manage to beat me by a couple of weeks. You can find my full challenge [here](https://www.goodreads.com/user_challenges/10276391) 
+My girlfriend is a very active reader, and this coupled with a forum I visit encouraged me to challenge myself to hit 50 books in a calendar year, something I once considered impossible for myself. Part of the challenge was also racing my girlfriend to hit 50. I managed to to hit this on the 6th of November. Lucie did manage to beat me by a couple of weeks. You can find my full challenge [here](https://www.goodreads.com/user_challenges/10276391).
 
 <br><br>
 ## The Alpha and the Omega
-I began 2018 [travelling through Taiwan](https://www.flawlessrhetoric.com/Planes-Trains-and-Automobiles), and as I do on a lot of my journeys, take books with me that are set in the place. The first book was aptly named Taipei by Tao Lin
+I began 2018 [travelling through Taiwan](https://www.flawlessrhetoric.com/Planes-Trains-and-Automobiles), and as I do on a lot of my journeys, take books with me that are set in the place. The first book was aptly named Taipei by Tao Lin.
 
 <br>
 ![Taipei Cover](https://images.gr-assets.com/books/1360620005l/16041828.jpg)
@@ -19,6 +19,7 @@ I began 2018 [travelling through Taiwan](https://www.flawlessrhetoric.com/Planes
 
 It was a really interestingly written book that chronicles roughly a year in the life of a somewhat socially stunted writer who also appears to be suffering from depression. [Full Review](https://www.goodreads.com/review/show/2235832319?book_show_action=false&from_review_page=1).
 
+<br>
 I ended the year completely coincidentally reading another book set in Asia with Crazy Rich Asians by Kevin Kwan, that has recently been adapted into a film.
 
 <br>
