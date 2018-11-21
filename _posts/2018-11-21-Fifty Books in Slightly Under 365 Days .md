@@ -7,7 +7,7 @@ tag: reading
 I've been tracking my reading for the last couple of years using Goodreads and find it to be a great platform. They heavily promote reading through the reading challenge. It can be set to any number of books, but by default is 50. For the last two years prior to 2018 my target has been 20-25. 
 
 <br>
-My girlfriend is a very active reader, and this coupled with a forum I visit encouraged me to challenge myself to hit 50 books in a calendar year, something I once considered impossible for myself. Part of the challenge was also racing my girlfriend to hit 50. I managed to to hit this on the 6th of November. Lucie did manage to beat me by a couple of weeks. You can find my full challenge [here](https://www.goodreads.com/challenges/7501-2018-reading-challenge) 
+My girlfriend is a very active reader, and this coupled with a forum I visit encouraged me to challenge myself to hit 50 books in a calendar year, something I once considered impossible for myself. Part of the challenge was also racing my girlfriend to hit 50. I managed to to hit this on the 6th of November. Lucie did manage to beat me by a couple of weeks. You can find my full challenge [here](https://www.goodreads.com/user_challenges/10276391) 
 
 <br><br>
 ## The Alpha and the Omega
