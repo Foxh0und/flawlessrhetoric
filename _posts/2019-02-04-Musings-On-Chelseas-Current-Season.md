@@ -6,7 +6,7 @@ tag: Football
 ---
 
 It has been 205 days since we appointed Maurizio Sarri as our head coach [1]. Currently we sit in fourth, two points clear of Manchester United, trail Tottenham in third by seven points, and top spot Liverpool by 61 [2].
-So far we've had a very interesting season under the Spaniards tenure, especially recently. On Wednesday evening we lost 4-0 to AFC Bournemouth, but responded by hammering bottom of the table Huddersfield Town 5-0 [3].
+So far we've had a very interesting season under the Italian's tenure, especially recently. On Wednesday evening we lost 4-0 to AFC Bournemouth, but responded by hammering bottom of the table Huddersfield Town 5-0 [3].
 
 <br>
 ![Sarri](https://i.imgur.com/DTIKhJZ.png)
