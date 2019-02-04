@@ -43,7 +43,7 @@ He dictates the flow and the tempo of our play, but without his presence we stru
 ![Kepa](https://i.imgur.com/WqeRmB5.jpg)
 <br>
 
-Despite all our troubles this season, and even being called a circus by Steve Nicol [8], I think we are tracking well. We are fourth, still in the Europa League and FA Cup, and into the final of the Carabao Cup, which could land Sarri his first Trophy. I think the fans need to be patient and accept that change takes time, and we must be patient, with those calling for his removal needing to calm and hold their horses.
+Despite all our troubles this season, and even being called a circus by Steve Nicol [8], I think we are tracking well. We are fourth, still in the Europa League and FA Cup, and into the final of the Carabao Cup, which could land Sarri his first Trophy. I think the fans need to be patient and accept that change takes time, and with those calling for his removal needing to calm and hold their horses.
 
 <br>
 ![Gonzalo](https://i.imgur.com/1OajjgU.jpg)
