@@ -23,7 +23,7 @@ It is of my opinion that the supporters are being very impatient, and that chang
 <br>
 Of all Sarri's decisions, the one discussed the most is the current role of Ngolo Kanté, who is a mainstay on the right side of the midfield three, usually ahead of Jorginho, or occasionally Cesc Fabregas before his departure for Monaco.
 Many are arguing that he is being played out of position, including former French international David Ginola, and Liverpool Defender Jamie Carragher [6]. Sarri wants to deploy a deep-lying playmaker in Jorginho, with two midfielders ahead of him. 
-Kanté is adapting to his role well in my opinion, and is continuing to often win the ball back for us, but further up the pitch. 
+Kanté is adapting to his role well in my opinion, and is continuing to often win the ball back for us, but further up the pitch. However, to play devil's advocate and for arguments sake, I wonder if it would be possible to get the best of both worlds employing the pair in a double-pivot midfield 
 
 <br>
 ![KantéandJorginho](https://i.imgur.com/7XVtDXj.jpg)
