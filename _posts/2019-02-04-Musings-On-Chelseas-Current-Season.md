@@ -9,6 +9,9 @@ It has been 205 days since we appointed Maurizio Sarri as our head coach[1]. Cur
 So far we've had a very interesting season under the Spaniards tenure, especially recently. On Wednesday evening we lost 4-0 to AFC Bournemouth, but responded by hammering bottom of the table Huddersfield Town 5-0[3].
 
 <br>
+[Sarri](https://i.imgur.com/DTIKhJZ.png)
+<br>
+
 We appointed Sarri after a prolonged transfer saga of sorts between us and Napoli, with the Italian finally arriving after months of speculation on the 14th of July, barely touching down in London with compatriot Jorginho before jetting down under (where I was lucky to watch him) as the squad began their pre season tour. Sarri started the season by saying “I expect, in the first part of the season, some problems.”, adding further, “On the results. Maybe the performances in the first part of the season will not be in line with the potential of the squad. Maybe.”[4] However, on first glance our results indicated anything but, with the first 12 Premier League Games undefeated before a loss away to Tottenham Hotspur[5]. Things began looking a little shaky two games later as we surrendered a one goal lead and lost away at Wolverhampton, but we bounced back quickly with an impressive 2-0 victory of league leaders, Manchester City.
 
 
@@ -37,7 +40,10 @@ Since Sarri's arrival, we've only had a handful of arrivals, with Kepa Arrizabal
 He dictates the flow and the tempo of our play, but without his presence we struggle. Kovačić has not had the impact I thought he would, and I think we need to question if we will pursue the purchase. Gonzalo Higuaín has slotted in quickly and filled our deficiency in the front, scoring two great goals on the weekend.
 
 <br>
-Despite all our troubles this season, and even called a circus by Steve Nicol [8], I think we are tracking well. We are fourth, still in the Europa League and FA Cup, and into the final of the Carabao Cup, which could land Sarri his first Trophy. I think the fans need to be patient and accept that change takes time, and we must be patient, with those calling for his removal needing to calm and hold their horses.
+[Kepa](https://i.imgur.com/WqeRmB5.jpg)
+<br>
+
+Despite all our troubles this season, and even being called a circus by Steve Nicol [8], I think we are tracking well. We are fourth, still in the Europa League and FA Cup, and into the final of the Carabao Cup, which could land Sarri his first Trophy. I think the fans need to be patient and accept that change takes time, and we must be patient, with those calling for his removal needing to calm and hold their horses.
 
 <br>
 ![Gonzalo](https://i.imgur.com/1OajjgU.jpg)
