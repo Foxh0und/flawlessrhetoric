@@ -52,10 +52,10 @@ Despite all our troubles this season, and even being called a circus by Steve Ni
 ## References
 
 - [1] "Maurizio Sarri: Chelsea name ex-Napoli boss as Antonio Conte's successor", BBC Sport, 2018. [Online]. Available: https://www.bbc.com/sport/football/44825638. [Accessed: 04- Feb- 2019].
-- [2]"Premier League Live Table, Season 2018/19", Premierleague.com, 2019. [Online]. Available: https://www.premierleague.com/matchweek/3283/table. [Accessed: 04- Feb- 2019].
-- [3]"Chelsea (Sky Sports)", SkySports, 2019. [Online]. Available: https://www.skysports.com/chelsea-results/2018-19. [Accessed: 04- Feb- 2019].
-- [4]D. Fifield, "Maurizio Sarri believes he will need time to transform Chelsea", The Guardian, 2018.
-- [5]S. Hafez, "Tottenham 3-1 Chelsea: Spurs inflict Blues' first Premier League defeat of season", BBC Sport, 2018. [Online]. Available: https://www.bbc.com/sport/football/46244418. [Accessed: 04- Feb- 2019].
-- [6]"Chelsea's midfield problem: N'Golo Kanté and Jorginho's positioning", Sky Sports, 2018. [Online]. Available: https://www.skysports.com/football/news/11668/11564653/chelseas-midfield-problem-ngolo-Kanté-and-jorginhos-positioning. [Accessed: 04- Feb- 2019].
-- [7]"Antonio Conte defends Andreas Christensen after error in Chelsea draw with Barcelona", Sky Sports, 2018. [Online]. Available: https://www.skysports.com/football/news/11668/11259790/antonio-conte-defends-andreas-christensen-after-error-in-chelsea-draw-with-barcelona. [Accessed: 04- Feb- 2019].
-- [8]S. Nicol, EPSN, 2019.
+- [2] "Premier League Live Table, Season 2018/19", Premierleague.com, 2019. [Online]. Available: https://www.premierleague.com/matchweek/3283/table. [Accessed: 04- Feb- 2019].
+- [3] "Chelsea (Sky Sports)", SkySports, 2019. [Online]. Available: https://www.skysports.com/chelsea-results/2018-19. [Accessed: 04- Feb- 2019].
+- [4] D. Fifield, "Maurizio Sarri believes he will need time to transform Chelsea", The Guardian, 2018.
+- [5] S. Hafez, "Tottenham 3-1 Chelsea: Spurs inflict Blues' first Premier League defeat of season", BBC Sport, 2018. [Online]. Available: https://www.bbc.com/sport/football/46244418. [Accessed: 04- Feb- 2019].
+- [6] "Chelsea's midfield problem: N'Golo Kanté and Jorginho's positioning", Sky Sports, 2018. [Online]. Available: https://www.skysports.com/football/news/11668/11564653/chelseas-midfield-problem-ngolo-Kanté-and-jorginhos-positioning. [Accessed: 04- Feb- 2019].
+- [7] "Antonio Conte defends Andreas Christensen after error in Chelsea draw with Barcelona", Sky Sports, 2018. [Online]. Available: https://www.skysports.com/football/news/11668/11259790/antonio-conte-defends-andreas-christensen-after-error-in-chelsea-draw-with-barcelona. [Accessed: 04- Feb- 2019].
+- [8] S. Nicol, EPSN, 2019.
