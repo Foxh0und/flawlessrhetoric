@@ -36,7 +36,7 @@ Antonio Rudiger and was superb, hopefully continuing his form and starting more 
 
 
 <br>
-Since Sarri's arrival, we've only had a handful of arrivals, with Kepa Arrizabalaga, Jorginho, and Mateo Kovačić (on loan) arriving in the summer, and Gonzalo Higuaín two weeks ago. Kepa has proven to be a great addition to the squad, so much so that his world record price tag is no longer mentioned. Jorginho has been good, but we need solutions for when he is marked out of games.
+Since Sarri's arrival, we've only had a handful of incoming players, with Kepa Arrizabalaga, Jorginho, and Mateo Kovačić (on loan) arriving in the summer, and Gonzalo Higuaín two weeks ago. Kepa has proven to be a great addition to the squad, so much so that his world record price tag is no longer mentioned. Jorginho has been good, but we need solutions for when he is marked out of games.
 He dictates the flow and the tempo of our play, but without his presence we struggle. Kovačić has not had the impact I thought he would, and I think we need to question if we will pursue the purchase. Gonzalo Higuaín has slotted in quickly and filled our deficiency in the front, scoring two great goals on the weekend.
 
 <br>
