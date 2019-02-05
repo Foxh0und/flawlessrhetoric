@@ -23,16 +23,15 @@ It is of my opinion that the supporters are being very impatient, and that chang
 <br>
 Of all Sarri's decisions, the one discussed the most is the current role of Ngolo Kanté, who is a mainstay on the right side of the midfield three, usually ahead of Jorginho, or occasionally Cesc Fabregas before his departure for Monaco.
 Many are arguing that he is being played out of position, including former French international David Ginola, and Liverpool Defender Jamie Carragher [6]. Sarri wants to deploy a deep-lying playmaker in Jorginho, with two midfielders ahead of him. 
-Kanté is adapting to his role well in my opinion, and is continuing to often win the ball back for us, but further up the pitch. However, to play devil's advocate and for arguments sake, I wonder if it would be possible to get the best of both worlds employing the pair in a double-pivot midfield 
+Kanté is adapting to his role well in my opinion, and is continuing to often win the ball back for us, but further up the pitch. However, to play devil's advocate and for arguments sake, I wonder if it would be possible to get the best of both worlds employing the pair in a double-pivot midfield.
 
 <br>
 ![KantéandJorginho](https://i.imgur.com/7XVtDXj.jpg)
 <br>
 
 Sarri has also been criticized for his lack of rotation, and I believe a lot of this stems from his Napoli days. I feel that he has been rotating well, but I would personally like to see it happen more. I really like Marcos Alonso, but as was evident last 
-season, he often get's burnt out (whilst still making the Premier League Team of the Season). We have a fantastic alternative in Emerson, who showed in our semi-final win over Tottenham that he has the potential to be a fantastic player. Despite his first Premier League start 
-in our most recent defeat, I would like to see him start more. Andreas Christensen has been mostly marginalised for most of the season, with many of his performances since the costly mistake against Barcelona in the Champions League [7] last season being poor despite a strong start to that campaign, His started against Huddersfield over 
-Antonio Rudiger and was superb, hopefully continuing his form and starting more games. Hopefully the Hudson-Odoi saga can be put to bed, and he will continue to play more games, as he continues to show lots of potentinal. I have not been impressed by Willian, and his consistency, or lack there of, continues to drop. I would really like to see Hudson-Odoi start over him.
+season, he often get's burnt out (whilst still making the Premier League Team of the Season). We have a fantastic alternative in Emerson, who showed in our semi-final win over Tottenham that he has the potential to be a fantastic player. Despite his first Premier League start in our most recent defeat, I would like to see him start more. Andreas Christensen has been mostly marginalised for most of the season, with many of his performances since the costly mistake against Barcelona in the Champions League [7] last season being poor despite a strong start to that campaign. He started against Huddersfield over 
+Antonio Rudiger and was superb, hopefully continuing this form and starting more games. Hopefully the Hudson-Odoi saga can be put to bed, and he will continue to play more games, as he continues to show lots of potentinal. I have not been impressed by Willian, and his consistency, or lack there of, continues to drop. I would really like to see Hudson-Odoi start over him.
 
 
 <br>
