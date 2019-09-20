@@ -134,6 +134,7 @@ You'll need to restart to make these changes take effect.
 
 <br>
 We need to point WSL to use our VM's Docker Host. Remember the IP for the Host Only Network Adapter before? Here is where we will use it, substituting it(VMIP) and the VM's username below (VMUN).
+<br>
 
         echo "export DOCKER_HOST=ssh://<VMUN>@<VMIP>:2375" >> ~/.bashrc
         source ~/.bashrc
@@ -141,7 +142,8 @@ We need to point WSL to use our VM's Docker Host. Remember the IP for the Host O
 <br>
 6. Time to get going, run docker info, and we should be good to go.
 <br>    
-        docker info
+          
+          docker info
 
 <br>
 We'll be prompted for the VM's password, and then the result will be returned.
@@ -152,25 +154,25 @@ We'll be prompted for the VM's password, and then the result will be returned.
 It obviously will get very tedious setting up SSH Keys every time we run a command, so we can setup SSH Keys to avoid this.
 
 <br>
-1. Generate an RSA SSH Key in WSL
+Generate an RSA SSH Key in WSL
 <br>
 
         ssh-keygen -t rsa
 
 <br>
-2. Create the .ssh folder on your VM
+Create the .ssh folder on your VM
 <br>
 
         ssh <VMUN>@<VMIP> mkdir -p .ssh
 
 <br>
-3. Add your SSH Key to the Authorised Keys on the VM
+Add your SSH Key to the Authorised Keys on the VM
 <br>
 
          cat .ssh/id_rsa.pub | ssh <VMUN>@<VMIP> 'cat >> .ssh/authorized_keys'
 
 <br>
-4. Set he permissions on the VM's .ssh directory
+Set he permissions on the VM's .ssh directory
 <br>
 
         ssh <VMUN>@<VMIP> "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
@@ -190,7 +192,6 @@ Please remember to replace the IP with your own.
         ## Docker
         <VMIP> docker
     
-
 <br>
 ## Testing
 <br>
