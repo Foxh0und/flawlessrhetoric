@@ -129,7 +129,8 @@ You'll need to restart to make these changes take effect.
 <br>
 5. We need to point WSL to use our VM's Docker Host. Remember the IP for the Host Only Network Adapter before? Here is where we will use it, substituting it(VMIP) and the VM's username below (VMUN).
 
-        echo "export DOCKER_HOST=ssh://<VMUN>@<VMIP>:2375" >> ~/.bashrc && source ~/.bashrc
+        echo "export DOCKER_HOST=ssh://<VMUN>@<VMIP>:2375" >> ~/.bashrc
+        source ~/.bashrc
 
 <br>
 6. Time to get going, run docker info, and we should be good to go.
@@ -146,20 +147,24 @@ It obviously will get very tedious setting up SSH Keys every time we run a comma
 
 <br>
 1. Generate an RSA SSH Key in WSL
+<br>
 
         ssh-keygen -t rsa
 
 <br>
 2. Create the .ssh folder on your VM
-    
+<br>
+
         ssh <VMUN>@<VMIP> mkdir -p .ssh
 
 <br>
 3. Add your SSH Key to the Authorised Keys on the VM
+<br>
 
          cat .ssh/id_rsa.pub | ssh <VMUN>@<VMIP> 'cat >> .ssh/authorized_keys'
 
 <br>
 4. Set he permissions on the VM's .ssh directory
-        
+<br>
+
         ssh <VMUN>@<VMIP> "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
