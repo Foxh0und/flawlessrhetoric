@@ -10,6 +10,9 @@ I'm a big advocate for using Docker, however, it can be a large pain on Windows.
 <br>
 This tutorial will show you how to setup Docker using Windows Subsystem for Linux (WSL), hiding the daemon away in a VM so you can still run all your commands and access your containers from a VM. It assumes that you WSL installed. If not, follow [these instructions](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
+<br>
+I estimate this should take 10-15 minutes.
+
 <br><br>
 ## Setup your VM and install the Docker Daemon
 <br>
@@ -168,3 +171,34 @@ It obviously will get very tedious setting up SSH Keys every time we run a comma
 <br>
 
         ssh <VMUN>@<VMIP> "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
+<br>
+## Editing your Hosts File
+<br>
+Edit your hosts file on your local windows machine, as remembering your IP can get annoying after a while.
+Add the following two lines (the first being a comment), to the hosts file, found in C:\Windows\System32\drivers\etc.
+Please remember to replace the IP with your own.
+<br>
+
+        ## Docker
+        <VMIP> docker
+    
+<br>
+## Testing
+<br>
+
+Now, time to test it. Let's use WSL, where we should be running all our commands from. Let's install and run web page test.
+<br>
+
+    docker pull webpagetest/server
+    docker run -d -p 4000:80 --rm webpagetest/server
+
+<br>
+This will launch the web page, mapping the containers port 80 to the Docker Daemon (VM)'s port 4000.
+Now, head to docker:4000 on your windows machine in a browser of your choice, and if everything is running correctly, you should be greated with the following web page.
+
+![webpagetest](https://i.imgur.com/UuKjZNW.png)
+
+
+  
+
+
