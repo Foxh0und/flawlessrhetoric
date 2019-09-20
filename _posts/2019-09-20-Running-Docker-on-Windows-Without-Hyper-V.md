@@ -171,6 +171,7 @@ It obviously will get very tedious setting up SSH Keys every time we run a comma
 <br>
 
         ssh <VMUN>@<VMIP> "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
+        
 <br>
 ## Editing your Hosts File
 <br>
