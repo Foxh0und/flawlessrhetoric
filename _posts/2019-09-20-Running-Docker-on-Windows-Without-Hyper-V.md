@@ -174,6 +174,7 @@ It obviously will get very tedious setting up SSH Keys every time we run a comma
 <br>
 ## Editing your Hosts File
 <br>
+
 Edit your hosts file on your local windows machine, as remembering your IP can get annoying after a while.
 Add the following two lines (the first being a comment), to the hosts file, found in C:\Windows\System32\drivers\etc.
 Please remember to replace the IP with your own.
@@ -182,6 +183,7 @@ Please remember to replace the IP with your own.
         ## Docker
         <VMIP> docker
     
+
 <br>
 ## Testing
 <br>
