@@ -171,7 +171,10 @@ It obviously will get very tedious setting up SSH Keys every time we run a comma
 <br>
 
         ssh <VMUN>@<VMIP> "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
-        
+ 
+ 
+Now, Docker, as well as any other sessions over SSH will work without being prompted for a password.
+
 <br>
 ## Editing your Hosts File
 <br>
