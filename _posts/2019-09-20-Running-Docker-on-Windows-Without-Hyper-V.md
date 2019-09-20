@@ -19,10 +19,10 @@ I estimate this should take 10-15 minutes.
 Install Virtual Box from [here](https://www.virtualbox.org/wiki/Downloads), and ensure that you install the Host Only Network Adapter.
 
 <br>
-Once setup, download the [CentOS Minimal ISO](https://www.centos.org/download/), and build a VM, installing CentOS. I gave my machine 2048MB of RAM. It's best too also give your machine a user, and avoid using the root account. **USE THE SAME USERNAME AS YOUR WSL USERNAME**. This isn't completley essentials, but is helpful for avoiding potential errors later on. After setup has concluded, and you can ensure the machine can get out to the internet, power it down.
+Once setup, download the [CentOS Minimal ISO](https://www.centos.org/download/), and build a VM, installing CentOS. I gave my machine 2048MB of RAM. It's best too also give your machine a user, and avoid using the root account. **USE THE SAME USERNAME AS YOUR WSL USERNAME**. This isn't completley essential, but is helpful for avoiding potential errors later on. After setup has concluded, and you can ensure the machine can get out to the internet, power it down.
 
 <br>
-Now, go to the settings of your newly created VM, in my case named container. Under Networking, enable Adapter 2, and attach it to your Host Only Network Adapter. Power on the machine.
+Now, go to the settings of your newly created VM, in my case named Containers. Under Networking, enable Adapter 2, and attach it to your Host Only Network Adapter. Power on the machine.
 
 <br>
 ![HostOnlyNetwork](https://i.imgur.com/hFRvdPw.png)
@@ -100,45 +100,48 @@ Now, exit your VM, and load up WSL. Install Docker's dependencies, add the pgp k
             stable"
 
 <br>
-2. Now, update your system, and install the latest
+Now, update your system, and install the latest
 <br>
 
         sudo apt-get update -y
         sudo apt-get install -y docker-ce
 
 <br>
-3. Install Docker Compose using PIP (with commands should you not already have it)
+Install Docker Compose using PIP (with commands should you not already have it)
 <br>
 
-    sudo apt-get install -y python python-pip
-    pip install --user docker-compose
+        sudo apt-get install -y python python-pip
+        pip install --user docker-compose
 
 <br>
-4. Ensure Volume Mounts Work. 
+Ensure Volume Mounts Work. 
 <br>
+
 I'd like to thank [Nick Jatekins and his blog post](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly#ensure-volume-mounts-work) for pointing this solution out to me. 
+
 <br>
 For this, we need to edit our volume mounts to make sure things are working. This requires you to have the Windows 10 1803 or later.
+
 <br>
 Add the following too 3 lines to /etc/wsl.conf with a text editor of your choice. I use VIM.
     
-    [automount]
-    root = /
-    options = "metadata"
+        [automount]
+        root = /
+        options = "metadata"
 
 <br>
 You'll need to restart to make these changes take effect.
 
 <br>
-5. We need to point WSL to use our VM's Docker Host. Remember the IP for the Host Only Network Adapter before? Here is where we will use it, substituting it(VMIP) and the VM's username below (VMUN).
+We need to point WSL to use our VM's Docker Host. Remember the IP for the Host Only Network Adapter before? Here is where we will use it, substituting it(VMIP) and the VM's username below (VMUN).
 
         echo "export DOCKER_HOST=ssh://<VMUN>@<VMIP>:2375" >> ~/.bashrc
         source ~/.bashrc
 
 <br>
 6. Time to get going, run docker info, and we should be good to go.
-    
-    docker info
+<br>    
+        docker info
 
 <br>
 We'll be prompted for the VM's password, and then the result will be returned.
