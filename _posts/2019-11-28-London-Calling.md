@@ -29,7 +29,6 @@ After several days, I jumped on a train to Watford, just outside of London, for 
 We got up, with two goals put away by Tammy and Pulasic, but had a late scare as Watford were awarded a penatly with Deulofeu converted.
 
 ![Roast](https://i.imgur.com/FZa6Vwx.jpg)
-<br>
 One of my favourite things was enjoying a Sunday Roast.
 <br><br>
 
@@ -45,7 +44,7 @@ Royal Crescent.
 
 ![Roman Baths](https://i.imgur.com/gH58jqi.jpg)
 The main attraction are the Roman Baths, built during the Roman occupation of Britain, which survive to this day. It is a really wonderful place. In the background is Bath Abbey.
-<br>
+<br><br>
 
 ### Stone Henge
 Just outside of Bath, about an hour by bus, is Stone Henge. I was quite lucky to go on a day with such great weather. For effectively what is a large collection of rocks, it is quite impressive an awe inspiring in person.
@@ -58,7 +57,7 @@ After my short getaway to Bath, I returned to London for another week.
 
 ![St James Park](https://i.imgur.com/JsND0wJ.jpg)
 St. James' Park.
-<br>
+<br><br>
 
 On Wednesday night I headed to Stamford Bridge to see the phenomenal match between Chelsea and AFC AJAX in the Champions League. At 1-4 I was well and truly content to return to Australia, but watching us scrape back to 4-4 and salvage a point was a sight to behold.
 
@@ -67,7 +66,7 @@ I was in West Upper.
 
 ![West Upper 2](https://i.imgur.com/csUZfl8.jpg)
 Super Frank.
-<br>
+<br><br>
 
 ### Greenwich
 I took a day trip out to Greenwich, via boat along the Thames. I really enjoyed it, I had some great food, strolled around the university town, and visited both th Royal Observatory, and the Royal Maritime Museum.
@@ -105,7 +104,6 @@ My last game was against Crystal Palace at home, and I was in the thick of it on
 It was a fantastic trip and a great little getaway.
 
 ![Imgur](https://i.imgur.com/gaPBZE5.jpg)
-<br>
 St. Pauls Cathederal
 
 
