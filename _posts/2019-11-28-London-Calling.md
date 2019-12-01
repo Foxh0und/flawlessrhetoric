@@ -26,7 +26,7 @@ The 007 Museum right by Covent Garden showed of many cars and props from the fil
 After several days, I jumped on a train to Watford, just outside of London, for my first game, against Watford at Vicarage Road. A rather small stadium with a tiny allocation for the away supporters, I was quite close to the pitch.
 
 ![Watford](https://i.imgur.com/lmLuday.jpg)
-We got up, with two goals put away by Tammy and Pulasic, but had a late scare as Watford were awarded a penatly with Deulofeu converted.
+We got up, with two goals put away by Tammy and Pulisic, but had a late scare as Watford were awarded a penatly with Deulofeu converted.
 
 ![Roast](https://i.imgur.com/FZa6Vwx.jpg)
 One of my favourite things was enjoying a Sunday Roast.
