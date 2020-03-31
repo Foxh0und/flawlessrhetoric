@@ -2,7 +2,7 @@
 layout: post
 title: "Disabling Consistent Network Device Naming in RHEL and CentOS"
 description: "Returning to the wonderful land of ethX"
-tag: Linux
+tag: Computers
 ---
 
 Consistent Network Device Naming was concieved to mitigate issues that would arise on machines where new network interfaces were installed, thus possibly changing the boot order, and their corresponding network device name [1]. Whilst this is incredibly useful in many scenarios, there remains certain situations where this is undesirable, and can cause many issues. Red Hat introduced this in RHEL7 and CentOS7[2], but thankfully this is relatively easy, albeit slightly hazardous to fix.
