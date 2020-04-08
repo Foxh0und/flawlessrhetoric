@@ -9,7 +9,7 @@ Hello. My name is Adam, I'm an aspiring computer scientist based in Melbourne, A
 <br />
 You may come across me on a myriad of usually tech based communities under some variation of Foxhound.
 
-I can be emailed [here](amiritis@wolfmail.co). If you need to contact me securely, my PGP Public Key is available on the [mailbox.org keyserver](hkps://pgp.mailbox.org).
+I can be emailed [here](amiritis@wolfmail.co). If you need to contact me securely, my PGP Public Key is available on the mailbox.org keyserver (hkps://pgp.mailbox.org).
 
 [Twitter](https://twitter.com/adammiritis)
 [GitHub](https://github.com/Foxh0und)
