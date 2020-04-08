@@ -6,6 +6,7 @@ title: About
 
 Hello. My name is Adam, I'm an aspiring computer scientist based in Melbourne, Australia. Recently I completed a BCS degree at Swinburne University of Technology. I have a passion for all things computing, particularly open source software development. Outside of computer science, I enjoy travelling, literature, motor mechanics, and am an avid Chelsea FC supporter.
 <br />
+<br />
 Should you need to contact me securely, my PGP Public Key is [here](https://github.com/Foxh0und/flawlessrhetoric/blob/master/public.asc).
 <br />
 <br />
