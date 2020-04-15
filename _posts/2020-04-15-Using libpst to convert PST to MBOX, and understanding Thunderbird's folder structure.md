@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using libpst to convert PST to MBOX, and understanding Thunderbird's folder structure.md"
+title: "Using libpst to convert PST to MBOX, and understanding Thunderbird's folder structure"
 description: "Using open source tools to import mail from Outlook to Thunderbird"
 tag: Computers
 ---
