@@ -6,23 +6,25 @@ tag: Computers
 ---
 ## Introduction
 I have recently moved my mail hosting from Office 365 to [Mailbox.org](mailbox.org), and needed to move my mail outside of Outlook. 
-<br>
+
 Once I had the PST exported, I needed to import it into Thunderbird on my Linux machine. There are a plethora of tools, mostly Windows based, and all require payment for their full usage, and even then, often don't yield the required result.
 
-<br>
 ## Understanding MBOX
 MBOX is an open source file format that represents a mailbox containing one or more mails, and was first introduced with the Fifth Edition of Unix in 1974 [1].
-<br>
+
 In simplified terms, when picturing your mail client, a single mbox file is a folder with a number of messages inside it.
-<br>
+
 ## Thunderbird's Folder Structure
 Thunderbird uses a folder structure that can be somewhat challenging to understand, and isn't clearly laid out.
-<br>
+
+
 Under the hood in the file system, each mbox file represents a folder. However, each folder if is also a directory with it's own sub folders, must be a directory object with the `.sbd` suffix.
 If the folder is just a subdirectory with no mail, it's parent directory must contain a plain file name with the same name as the directory( without the .sbd)
-<br>
+
+
 For example, consider the following directory
-<br>
+
+
 ```
 +-- Archive.sbd
 |   +-- School.mbox
