@@ -2,13 +2,14 @@
 layout: post
 title: "Using libpst to convert PST to MBOX, and understanding Thunderbird's folder structure.md"
 description: "Using open source tools to import mail from Outlook to Thunderbird"
-tag: Data
+tag: Computers
 ---
 ## Introduction
 I have recently moved my mail hosting from Office 365 to [Mailbox.org](mailbox.org), and needed to move my mail outside of Outlook. 
 
 Once I had the PST exported, I needed to import it into Thunderbird on my Linux machine. There are a plethora of tools, mostly Windows based, and all require payment for their full usage, and even then, often don't yield the required result.
 
+<br>
 ## Understanding MBOX
 MBOX is an open source file format that represents a mailbox containing one or more mails, and was first introduced with the Fifth Edition of Unix in 1974 [1].
 
