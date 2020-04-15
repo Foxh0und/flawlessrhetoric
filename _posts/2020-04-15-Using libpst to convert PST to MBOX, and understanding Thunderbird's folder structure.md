@@ -83,7 +83,6 @@ Thunderbird's data is usually located under `~/.thunderbird/<id>`, and you'll ne
 I prefer to add my folders to my Local Computer before dragging it into my IMAP account, but you can modify the final command to copy it into the IMAP Folders
 
 `cp -r out/* ~/.thunderbird/<id>/Mail/Local\ Folders/`
-<br><br>
 
 ## References
 [1]"Mbox", En.wikipedia.org, 2020. [Online]. Available: https://en.wikipedia.org/wiki/Mbox. [Accessed: 15- Apr- 2020]
