@@ -6,10 +6,13 @@ tag: Data
 ---
 ## Introduction
 I have recently moved my mail hosting from Office 365 to [Mailbox.org](mailbox.org), and needed to move my mail outside of Outlook. 
+
 Once I had the PST exported, I needed to import it into Thunderbird on my Linux machine. There are a plethora of tools, mostly Windows based, and all require payment for their full usage, and even then, often don't yield the required result.
 
+<br><br>
 ## Understanding MBOX
 MBOX is an open source file format that represents a mailbox containing one or more mails, and was first introduced with the Fifth Edition of Unix in 1974 [1].
+
 In simplified terms, when picturing your mail client, a single mbox file is a folder with a number of messages inside it.
 
 ## Thunderbird's Folder Structure
@@ -20,7 +23,7 @@ If the folder is just a subdirectory with no mail, it's parent directory must co
 
 For example, consider the following directory
 
-.
+```
 +-- Archive.sbd
 |   +-- School.mbox
 |   +-- Work.mbox
@@ -29,7 +32,8 @@ For example, consider the following directory
     |   +-- House.mbox
     |   +-- Cars.mbox
     +-- Bills
-.
+```
+<br>
 
 The top level folder is Archive, and it has three children, School, Work, and Bills.
 School and work have no children of their own, but have their own mail. However, Bills has sub directories, so it has a directory with the .sbd suffix. It doesn't have it's own mail however, so it has the empty file named Bills.
@@ -37,6 +41,7 @@ Inside Bills, there is a mailbox named House, and a Cars mailbox, that has not o
 
 It's not entirely straight forward, but once you see some examples, it's pretty easy to understand. [This forum post](http://colby.id.au/importing-pst-files-into-thunderbird-using-libpst/) from 2011 helped me understand it, as well as how to modify some commands to import PSTs to Thunderbird.
 
+<br>
 ## The Process
 
 ### Libpst Installation
@@ -47,8 +52,7 @@ It's not entirely straight forward, but once you see some examples, it's pretty 
 #### Fedore, RHEL, CentOS
 `sudo yum install -y libpst`
 
-</br></br>
-
+<br><br>
 ### Preparation
 First, you need to convert the pst, maintaining the folder structure for Thunderbird, using libpst's readpst functionality.
 
@@ -60,23 +64,29 @@ Now, copy it into a more malleably named directory.
 `mv Outlook\ Data\ File out`
 
 Add the .sbd extension to the directories.
+
 `find out -type d | tac | grep -v '^out$' | xargs -d '\n' -I{} mv {} {}.sbd`
 
 Remove the .mbox extension from the files, and move them into their parent directory.
+
 `find out -name mbox -type f | xargs -d '\n' -I{} echo '"{}" "{}"' | sed -e 's/\.sbd\/mbox"$/"/' | xargs -L 1 mv`
 
 Now, remove any empty directories if they exist. Don't worry if this fails, it just means you don't have any.
+
 `find out -empty -type d | xargs -d '\n' rmdir`
 
 Finally, we need to add the files that signify no mailbox, but a subdirectory.
+
 `find out -type d | egrep *.sbd | sed 's/.\{4\}$//' | xargs -d '\n' touch`
 
+<br><br>
 ### Importing into Thunderbird
 Thunderbird's data is usually located under `~/.thunderbird/<id>`, and you'll need to manually check what your id is.
+
 I prefer to add my folders to my Local Computer before dragging it into my IMAP account, but you can modify the final command to copy it into the IMAP Folders
 
 `cp -r out/* ~/.thunderbird/<id>/Mail/Local\ Folders/`
-
+<br><br>
 
 ## References
 [1]"Mbox", En.wikipedia.org, 2020. [Online]. Available: https://en.wikipedia.org/wiki/Mbox. [Accessed: 15- Apr- 2020]
