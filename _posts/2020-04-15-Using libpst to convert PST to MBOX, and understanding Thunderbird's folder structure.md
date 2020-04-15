@@ -22,8 +22,9 @@ In simplified terms, when picturing your mail client, a single mbox file is a fo
 Thunderbird uses a folder structure that can be somewhat challenging to understand, and isn't clearly laid out.
 
 <br>
-Under the hood in the file system, each mbox file represents a folder. However, each folder if is also a directory with it's own sub folders, must be a directory object with the `.sbd` suffix.
-If the folder is just a subdirectory with no mail, it's parent directory must contain a plain file name with the same name as the directory( without the .sbd)
+Under the hood in the file system, each mbox file represents a folder. If the mailbox also contains subfolders, a directory must exist, and named the same, with a suffix of .sbd.
+
+If the folder is just a subdirectory with no mail in itself, it's parent directory must contain a plain file name with the same name as the directory (without the .sbd).
 
 <br>
 For example, consider the following directory
