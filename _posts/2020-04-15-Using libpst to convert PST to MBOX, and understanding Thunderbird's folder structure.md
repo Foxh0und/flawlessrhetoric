@@ -55,36 +55,47 @@ It's not entirely straight forward, but once you see some examples, it's pretty 
 First, you need to convert the pst, maintaining the folder structure for Thunderbird, using libpst's readpst functionality.
 
 `readpst -u <pstname>.pst`
-<br>
+
 Now, copy it into a more malleably named directory.
-<br>
+
 `mkdir out`
 
 `mv Outlook\ Data\ File out`
 
 Add the .sbd extension to the directories.
-<br>
+
+
 `find out -type d | tac | grep -v '^out$' | xargs -d '\n' -I{} mv {} {}.sbd`
-<br>
+
+
 Remove the .mbox extension from the files, and move them into their parent directory.
-<br>
+
+
 `find out -name mbox -type f | xargs -d '\n' -I{} echo '"{}" "{}"' | sed -e 's/\.sbd\/mbox"$/"/' | xargs -L 1 mv`
-<br>
+
+
 Now, remove any empty directories if they exist. Don't worry if this fails, it just means you don't have any.
-<br>
+
+
 `find out -empty -type d | xargs -d '\n' rmdir`
-<br>
+
+
 Finally, we need to add the files that signify no mailbox, but a subdirectory.
-<br>
+
+
 `find out -type d | egrep *.sbd | sed 's/.\{4\}$//' | xargs -d '\n' touch`
-<br>
+
+
 
 ### Importing into Thunderbird
 Thunderbird's data is usually located under `~/.thunderbird/<id>`, and you'll need to manually check what your id is.
-<br>
+
+
 I prefer to add my folders to my Local Computer before dragging it into my IMAP account, but you can modify the final command to copy it into the IMAP Folders
-<br>
+
+
 `cp -r out/* ~/.thunderbird/<id>/Mail/Local\ Folders/`
-<br>
+
+
 ## References
 [1]"Mbox", En.wikipedia.org, 2020. [Online]. Available: https://en.wikipedia.org/wiki/Mbox. [Accessed: 15- Apr- 2020]
