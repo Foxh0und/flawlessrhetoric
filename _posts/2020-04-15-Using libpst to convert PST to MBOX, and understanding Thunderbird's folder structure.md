@@ -3,7 +3,7 @@ layout: post
 title: "Using libpst to convert PST to MBOX, and understanding Thunderbird's folder structure"
 description: "Using open source tools to import mail from Outlook to Thunderbird"
 tag: Computers
---`
+---
 
 ## Introduction
 I have recently moved my mail hosting from Office 365 to [Mailbox.org](mailbox.org), and needed to move my mail outside of Outlook. 
