@@ -42,6 +42,7 @@ Inside Bills, there is a mailbox named House, and a Cars mailbox, that has not o
 It's not entirely straight forward, but once you see some examples, it's pretty easy to understand. [This forum post](http://colby.id.au/importing-pst-files-into-thunderbird-using-libpst/) from 2011 helped me understand it, as well as how to modify some commands to import PSTs to Thunderbird.
 
 <br>
+
 ## The Process
 
 ### Libpst Installation
