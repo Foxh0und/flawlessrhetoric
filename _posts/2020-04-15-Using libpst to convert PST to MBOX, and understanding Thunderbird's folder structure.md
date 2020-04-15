@@ -76,10 +76,6 @@ Now, copy it into a more malleably named directory.
 
 <br>
 
-`mkdir out`
-
-<br>
-
 `mv Outlook\ Data\ File out`
 
 <br>
