@@ -54,11 +54,14 @@ It's not entirely straight forward, but once you see some examples, it's pretty 
 ## The Process
 
 ### Libpst Installation
+Libpst is an package that provides the ability to access Micorosft mail archives (.pst) and convert them to mbox and other formats with their various utilities [2].
+
+<br>
 
 #### Ubuntu, Debian
 `sudo apt-get install -y libpst-dev`
 
-#### Fedore, RHEL, CentOS
+#### FedorA, RHEL, CentOS
 `sudo yum install -y libpst`
 
 <br>
@@ -128,3 +131,4 @@ I prefer to add my folders to my Local Computer before dragging it into my IMAP 
 
 ## References
 [1]"Mbox", En.wikipedia.org, 2020. [Online]. Available: https://en.wikipedia.org/wiki/Mbox. [Accessed: 15- Apr- 2020]
+[2]"libpst Utilities - Version 0.6.75", Five-ten-sg.com, 2020. [Online]. Available: https://www.five-ten-sg.com/libpst/. [Accessed: 15- Apr- 2020]
