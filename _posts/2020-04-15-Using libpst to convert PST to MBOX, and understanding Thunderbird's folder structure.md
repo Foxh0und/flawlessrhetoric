@@ -9,7 +9,6 @@ I have recently moved my mail hosting from Office 365 to [Mailbox.org](mailbox.o
 
 Once I had the PST exported, I needed to import it into Thunderbird on my Linux machine. There are a plethora of tools, mostly Windows based, and all require payment for their full usage, and even then, often don't yield the required result.
 
-<br><br>
 ## Understanding MBOX
 MBOX is an open source file format that represents a mailbox containing one or more mails, and was first introduced with the Fifth Edition of Unix in 1974 [1].
 
@@ -33,7 +32,6 @@ For example, consider the following directory
     |   +-- Cars.mbox
     +-- Bills
 ```
-<br>
 
 The top level folder is Archive, and it has three children, School, Work, and Bills.
 School and work have no children of their own, but have their own mail. However, Bills has sub directories, so it has a directory with the .sbd suffix. It doesn't have it's own mail however, so it has the empty file named Bills.
@@ -41,7 +39,6 @@ Inside Bills, there is a mailbox named House, and a Cars mailbox, that has not o
 
 It's not entirely straight forward, but once you see some examples, it's pretty easy to understand. [This forum post](http://colby.id.au/importing-pst-files-into-thunderbird-using-libpst/) from 2011 helped me understand it, as well as how to modify some commands to import PSTs to Thunderbird.
 
-<br>
 
 ## The Process
 
@@ -53,7 +50,6 @@ It's not entirely straight forward, but once you see some examples, it's pretty 
 #### Fedore, RHEL, CentOS
 `sudo yum install -y libpst`
 
-<br><br>
 ### Preparation
 First, you need to convert the pst, maintaining the folder structure for Thunderbird, using libpst's readpst functionality.
 
