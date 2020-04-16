@@ -130,5 +130,5 @@ I prefer to add my folders to my Local Computer before dragging it into my IMAP 
 <br>
 
 ## References
-[1]"Mbox", En.wikipedia.org, 2020. [Online]. Available: https://en.wikipedia.org/wiki/Mbox. [Accessed: 15- Apr- 2020]
-[2]"libpst Utilities - Version 0.6.75", Five-ten-sg.com, 2020. [Online]. Available: https://www.five-ten-sg.com/libpst/. [Accessed: 15- Apr- 2020]
+- [1]"Mbox", En.wikipedia.org, 2020. [Online]. Available: https://en.wikipedia.org/wiki/Mbox. [Accessed: 15- Apr- 2020]
+- [2]"libpst Utilities - Version 0.6.75", Five-ten-sg.com, 2020. [Online]. Available: https://www.five-ten-sg.com/libpst/. [Accessed: 15- Apr- 2020]
