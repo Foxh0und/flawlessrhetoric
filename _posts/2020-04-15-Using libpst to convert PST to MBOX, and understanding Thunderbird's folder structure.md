@@ -61,7 +61,7 @@ Libpst is an package that provides the ability to access Micorosft mail archives
 #### Ubuntu, Debian
 `sudo apt-get install -y libpst-dev`
 
-#### FedorA, RHEL, CentOS
+#### Fedora, RHEL, CentOS
 `sudo yum install -y libpst`
 
 <br>
