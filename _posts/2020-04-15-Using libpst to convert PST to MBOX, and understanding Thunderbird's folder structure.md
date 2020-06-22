@@ -111,7 +111,7 @@ Finally, we need to add the files that signify no mailbox, but a subdirectory.
 
 <br>
 
-`find out -type d | egrep *.sbd | sed 's/.\{4\}$//' | xargs -d '\n' touch`
+`find out -type d | egrep '*.sbd' | sed 's/.\{4\}$//' | xargs -d '\n' touch`
 
 
 <br>
@@ -125,7 +125,7 @@ I prefer to add my folders to my Local Computer before dragging it into my IMAP 
 
 <br>
 
-`cp -r out/* ~/.thunderbird/<id>/Mail/Local\ Folders/`
+`cp -a out/* ~/.thunderbird/<id>/Mail/Local\ Folders/`
 
 <br>
 
