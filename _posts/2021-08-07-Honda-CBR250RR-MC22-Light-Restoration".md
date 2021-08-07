@@ -17,7 +17,7 @@ The original tri coloured fairings were badly damaged and needed to be replaced.
 
 ![Imgur](https://i.imgur.com/ulgkKLV.jpg?1)
 
-Upon stripping everything back, the bike was in major need repairs and to be thoroughly cleaned.
+Upon stripping everything back, the bike was in major need of repairs and to be thoroughly cleaned.
 
 ![Imgur](https://i.imgur.com/Wx5aVah.jpg)
 
@@ -25,7 +25,7 @@ Unfortunately I was not aware of the screw inside the fuel switch I needed to un
 
 ![Imgur](https://i.imgur.com/owoC0db.jpg)
 
-The first step was to completely rebuild the front shocks. When removing the oil, one fork came out clear, and one came out thicker than mud, indicating one had at least had an oil change more recently. All replaceable components were changed, new seals really made a difference. The fork with the extremely bad oil was almost impossible to get a part, so much so that we bent the outer casing. Thankfully we were able to source a second hand one from FB Marketplace.
+The first step was to completely rebuild the front shocks. When removing the oil, one fork came out clear, and one came out thicker than mud, indicating it had at least had an oil change more recently on only one fork. All replaceable components were changed, new seals really made a difference. The fork with the extremely bad oil was almost impossible to take apart, so much so that we bent the outer casing. Thankfully we were able to source a second hand one from FB Marketplace.
 
 ![Imgur](https://i.imgur.com/w7BQ6y9.jpg)
 
@@ -39,7 +39,7 @@ When pulling apart the chain cover to replace both the chain and the sprockets, 
 
 Don't think the oil, nor the filter had been changed in a long, long time.
 
-[Imgur](https://i.imgur.com/znlxB2S.jpg)
+![Imgur](https://i.imgur.com/znlxB2S.jpg)
 
 ![Imgur](https://i.imgur.com/40H0Z6s.jpg)
 
@@ -51,4 +51,36 @@ To match the fairings, I had one of them colour matched, and the rims painted by
 
 ![Imgur](https://i.imgur.com/FerH85t.jpg)
 
+![Imgur](https://i.imgur.com/pSouKpQ.jpg)
+
+Polishing up the original exhaust worked a treat, but I may look to source a Yoshimura one at a later stage.
+
+![Imgur](https://i.imgur.com/LCtyz7x.jpg)
+
 I was also able to paint many other things, including the engine covers to really clean up the bike.
+
+![Imgur](https://i.imgur.com/RvYPNpd.jpg)
+
+![Imgur](https://i.imgur.com/6jlRN9g.jpg?1)
+
+A new engine inspection bolt really made the bike pop
+
+![Imgur](https://i.imgur.com/RRZVoEs.jpg)
+
+All three calipers had new seals and pads installed, both master cylinders were rebuilt, and HEL braided lines were installed on the bike.
+
+![Imgur](https://i.imgur.com/hNiXk3L.jpg)
+
+<br>
+
+I am extremely pleased with the way the bike came out, it now rides like a new machine, and looks fantastic. I'm very much looking forward to restrictions lifting and summer arriving to enjoy this more.
+
+
+![Imgur](https://i.imgur.com/trG9DGU.jpg)
+
+<br>
+
+
+A special thanks to Omar from XCite Bikes, where I purchased all my parts for his help, and my friend Illya for a few pointers, but most of all, a special thanks to my Dad for all his time, effort and patience when helping me restore this.
+
+![Imgur](https://i.imgur.com/sF82ieC.jpg)
