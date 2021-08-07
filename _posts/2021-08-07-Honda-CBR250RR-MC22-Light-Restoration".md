@@ -37,15 +37,18 @@ When pulling apart the chain cover to replace both the chain and the sprockets, 
 
 ![Imgur](https://i.imgur.com/iqY0QDh.jpg)
 
+![Imgur](https://i.imgur.com/40H0Z6s.jpg)
+
+
 Don't think the oil, nor the filter had been changed in a long, long time.
 
 ![Imgur](https://i.imgur.com/znlxB2S.jpg)
 
-![Imgur](https://i.imgur.com/40H0Z6s.jpg)
-
 ![Imgur](https://i.imgur.com/M1htgbx.jpg)
 
 Whilst it took forever (2+ months, thanks to covid shipping), I was very happy with the new fairings and tank cover from 12K Motors. 
+
+![Imgur](https://i.imgur.com/hRMkams.jpg)
 
 To match the fairings, I had one of them colour matched, and the rims painted by a neighbour, a professional truck painter. After putting new bearings in, but keeping the original brake disks, they came up great.
 
