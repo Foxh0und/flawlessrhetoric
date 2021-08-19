@@ -4,14 +4,16 @@ title: About
 ---
 <img src="portrait.jpg" class="profile-picture" width="128" align="right">
 
-Hello. My name is Adam, I'm an aspiring computer scientist based in Melbourne, Australia. Recently I completed a BCS degree at Swinburne University of Technology. I have a passion for all things computing, particularly open source software development. Outside of computer science, I enjoy travelling, literature, motor mechanics, and am an avid Chelsea FC supporter.
+Hello, I'm Adam, a software developer based in Melbourne, Australia. 
+I work at Vanguard Australia, specialising in backend devlopment using Java, AWS, and react-native.
+I’m currently enjoying learning Rust and GoLang. 
+I have a passion for all things computing, particularly open source software development. 
+Outside of computer science, I enjoy travelling, literature, motor mechanics, and I am an avid Chelsea FC supporter.
 <br />
 <br />
 Should you need to contact me securely, my PGP Public Key is [here](https://github.com/Foxh0und/flawlessrhetoric/blob/master/public.asc).
 <br />
 <br />
-You may come across me on a myriad of usually tech based communities under some variation of Foxhound.
-
 [Twitter](https://twitter.com/adammiritis)
 [GitHub](https://github.com/Foxh0und)
 [Stack Overflow](https://stackoverflow.com/users/5353034/foxhound)
