@@ -25,15 +25,15 @@ The wiring in the car was all over the shop, and many shortcuts had been taken. 
 
 ![5](https://i.imgur.com/pA7UzJp.jpg)
 
-Stage 1 and Stage 2 sound deadener was also placed in the car, to improve heat an accoustics.
+Stage 1 and Stage 2 sound deadener was also placed in the car, to improve heat an acoustics.
 
-![6](https://i.imgur.com/PaT7RoP.jpg)
+![6](https://i.imgur.com/0h2k8qo.jpg)
 
 ![7](https://i.imgur.com/pA7UzJp.jpg)
 
 Along with recarpeting the car, all interior parts were repaired, and redyed using VHT satin black interior dye.
 
-![8](https://i.imgur.com/SM17n23.jpg)
+![8](https://i.imgur.com/PaT7RoP.jpg)
 
 ![9](https://i.imgur.com/2J1EqF3.jpg)
 
