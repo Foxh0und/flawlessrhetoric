@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chevrolet C3 Corvette Inital Restoration"
+title: "Chevrolet C3 Corvette Initial Restoration"
 description: "Little Green Corvette"
 tag: Automotive
 ---
@@ -35,7 +35,7 @@ Along with recarpeting the car, all interior parts were repaired, and redyed usi
 
 ![8](https://i.imgur.com/PaT7RoP.jpg)
 
-![9](https://i.imgur.com/2J1EqF3.jpg)
+![9](https://i.imgur.com/W3CEkTK.jpg)
 
 The new carpet, along with new mats from [Lloyd's Mats](https://lloydmats.com/) really made the iterior shine.
 
