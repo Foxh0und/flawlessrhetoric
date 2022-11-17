@@ -5,7 +5,7 @@ title: About
 <img src="portrait.jpg" class="profile-picture" width="128" align="right">
 
 Hello, I'm Adam, a software developer based in Melbourne, Australia. 
-I work at Vanguard Australia, specialising in backend devlopment using Java, AWS, and react-native.
+I work at Atlassian, specialising in backend devlopment using Java and AWS.
 I’m currently enjoying learning Rust and GoLang. 
 I have a passion for all things computing, particularly open source software development. 
 Outside of computer science, I enjoy travelling, literature, motor mechanics, and I am an avid Chelsea FC supporter.
