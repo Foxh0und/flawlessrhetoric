@@ -32,7 +32,7 @@ Bar Cañete, one of the best meals I had on the entire trip. This was recommende
 
 <br>
 
-![Barca 5](https://imgur.com/GIFjDLF)
+![Barca 5](https://imgur.com/GIFjDLF.jpg)
 Sagrada Família. Whilst I was not the biggest fan of Barcelona, it was worth visiting just for this. I was in absolute awe of it. Both inside, and outside, it was incredible. I hope to go back when it is finished (scheduled 2024).
 
 <br>
@@ -159,12 +159,12 @@ Watching Real Betis play Girona, featuring several familiar Premier League faces
 
 <br>
 
-![Sevilla 4](https://imgur.com/7j1CjLP)
+![Sevilla 4](https://imgur.com/7j1CjLP.jpg)
 Setas de Sevilla, which translated is the Mushrooms of Seville, is the largest wooden structure in the world. You may also walk along the top.
 
 <br>
 
-![Sevilla 5](https://imgur.com/ckX9cCw)
+![Sevilla 5](https://imgur.com/ckX9cCw.jpg)
 Torre del Oro - The Tower of Gold sits right on the Guadalquivir river.
 
 <br>
@@ -233,7 +233,7 @@ Clérigos Church Tower, a Baroque style church, that looks over the entire city.
 
 <br>
 
-![Porto 3](https://imgur.com/rQRbXGF)
+![Porto 3](https://imgur.com/rQRbXGF.jpg)
 Taylors Port - one of the many cellars in Portugal. Many of the Port manufacturers are english, and have been here since the 18th century. 
 
 <br>
