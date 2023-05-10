@@ -5,7 +5,7 @@ description: ""
 tag: Travel
 ---
 ## Introduction 
-Much like my spain post, I'm a little bit late to writing this. With Mikaela living in Cambodia, KL provided a great location for us to meet, if only for a weekend. I was pleasently surprised by the city, and really enjoyed it, wouldn't hesitate to go back.
+Much like my spain post, I'm a little bit late to writing this. With Mikaela living in Cambodia, KL provided a great location for us to meet, if only for a weekend. 
 
 <br>
 
@@ -44,4 +44,4 @@ Heli Lounge Bar - quite literally on a helipad. I wouldn't go if you're afraid o
 Indepence Square
 
 <br>
-I hadn't been to KL before, but I really enjoyed it, plenty of good food and drink, and plenty to do. It was perfect for an extended weekend away.
+I hadn't been to KL before, but I really enjoyed it, plenty of good food and drink with plenty to do. It was perfect for an extended weekend away.
