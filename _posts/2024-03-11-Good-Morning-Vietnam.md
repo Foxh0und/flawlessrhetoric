@@ -5,7 +5,7 @@ description: ""
 tag: Travel
 ---
 ## Introduction 
-Much like my last two posts, I'm a little bit late to the party in writing this. In April 2023, Mikaela and I spent two and a half weeks travelling through Vietnam, following the HCM method of coming from the north to south. We met up in Hanoi, with a small trip to Ha Long Bay, then to Ninh Binh, into Hoi An via Danag, and finally finished up in Saigon. 
+Much like my last two posts, I'm a little bit late to the party in writing this. In April 2023, Mikaela and I spent two and a half weeks travelling through Vietnam, following the HCM method of coming from the north to south. We met up in Hanoi, with a small trip to Ha Long Bay, then to Ninh Binh, into Hoi An via Da Nang, and finally finished up in Saigon. 
 
 ## Hanoi
 We stayed in the bustling old quarter of hanoi, it was a great spot to be to venture out in many directions.
@@ -23,7 +23,7 @@ Hanoi Hilton - Thankfully, we didn't stay here
 ![Hanoi3](https://imgur.com/1MDQgG4.jpg)
 Train Street
 
-![[Hanoi4)https://imgur.com/lHu7WiZ.jpg)
+![Hanoi4](https://imgur.com/lHu7WiZ.jpg)
 One of the busier intersections, with a great view form many cafes
 
 <br>
@@ -34,7 +34,7 @@ Temple of Literature
 <br>
 
 ![Hanoi6](https://imgur.com/zdkwWJN.jpg)
-Meeting a new friend in a cocktail bar [he's no Benji)
+Meeting a new friend in a cocktail bar (he's no Benji)
 
 <br>
 
@@ -80,7 +80,7 @@ Was just lovely watching us drop points at home to Brighton.
 ## Hoi An
 From Ninh Binh, we got an overnight train to Da Nang and a taxi to the seaside town of Hoi An, which was just wonderful.
 
-!HoiAn1](https://imgur.com/290ua2s.jpg)[
+![HoiAn1](https://imgur.com/290ua2s.jpg)
 The trains were almost identical to the Trans Siberian Express
 
 <br>
@@ -100,7 +100,7 @@ It was lovely to celebrate Mikaea's birthday at Morning Glory, a resturant I rec
 
 
 ## Saigon
-After finishing in Hoi An, we caught a rather early taxi back to Da Nang and a short flight to the capital, Ho Chi Minh City [Saigon). We stayed in District 1 which provided easy access to everything we wanted to see. I really loved the city and it was possibly the highlight of the trip for me.
+After finishing in Hoi An, we caught a rather early taxi back to Da Nang and a short flight to the capital, Ho Chi Minh City (Saigon). We stayed in District 1 which provided easy access to everything we wanted to see. I really loved the city and it was possibly the highlight of the trip for me.
 
 ![Saigon1](https://imgur.com/lecKpvH.jpg)
 Independence Palace
