@@ -55,8 +55,8 @@ Good to see this sign is still there in the British Hub 7 years later
 
 <br>
 
-![Asaksa](https://imgur.com/rmWyavt.jpeg)
-Last time I came I didn't go to Asaksa, and am not sure why, but I really really enjoyed it, the long market was very scenic, as were the temples.
+![Asakusa](https://imgur.com/rmWyavt.jpeg)
+Last time I came I didn't go to Asakusa, and am not sure why, but I really really enjoyed it, the long market was very scenic, as were the temples.
 
 <br>
 
