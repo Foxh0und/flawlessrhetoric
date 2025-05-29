@@ -18,7 +18,7 @@ I didn't want to do a clean install and manually swap to the KDE Spin. I also co
 
 <br><br>
 
-## 🧰 Step 1: Install KDE
+#### 🧰 Step 1: Install KDE
 
 First, install the full KDE desktop environment group:
 
@@ -35,7 +35,7 @@ sudo systemctl set-default graphical.target
 
 <br><br>
 
-## 🔁 Step 2: Switch Fedora Identity to KDE
+#### 🔁 Step 2: Switch Fedora Identity to KDE
 
 Fedora uses different identity packages depending on the desktop spin. I swapped mine from GNOME Workstation to KDE:
 
@@ -48,7 +48,7 @@ You're also probably going to want to restart now, and boot into KDE.
 
 <br><br>
 
-## 🧼 Step 3: Remove GNOME Packages
+#### 🧼 Step 3: Remove GNOME Packages
 
 Start by removing the GNOME desktop group:
 
@@ -78,7 +78,7 @@ dnf list installed | grep gnome
 
 <br>
 
-## 🧹 Step 4: Remove Leftover GNOME Configs
+#### 🧹 Step 4: Remove Leftover GNOME Configs
 
 Clear out user-specific GNOME settings and cached data:
 
@@ -93,7 +93,7 @@ rm -rf ~/.themes ~/.icons ~/.fonts ~/.gtkrc*
 
 <br><br>
 
-## ⚙️ Step 5: Disable GDM and Final Cleanup
+#### ⚙️ Step 5: Disable GDM and Final Cleanup
 
 Disable GDM:
 
@@ -124,7 +124,7 @@ sudo rm /usr/share/wayland-sessions/gnome.desktop
 
 <br><br>
 
-## 🌐 Step 6: Remove GNOME Shell Integration Extension
+#### 🌐 Step 6: Remove GNOME Shell Integration Extension
 
 If you used the GNOME Shell browser integration (Firefox/Chrome), remove it:
 
@@ -136,7 +136,7 @@ Or remove the extension from your browser manually.
 
 <br><br>
 
-## ✅ All Done
+#### ✅ All Done
 
 After a reboot, I had a clean KDE environment: no GNOME apps, no GDM, no conflicts.
 I'm enjoying KDE a lot, the launcher is really nice, and the whole experience just feels that little bit better.
