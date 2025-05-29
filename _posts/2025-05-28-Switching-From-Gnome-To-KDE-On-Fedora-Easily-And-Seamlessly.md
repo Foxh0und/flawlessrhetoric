@@ -119,3 +119,6 @@ Or remove the extension from your browser manually.
 
 After a reboot, I had a clean KDE environment: no GNOME apps, no GDM, no conflicts.
 I'm enjoying KDE a lot, the launcher is really nice, and the whole experience just feels that little bit better.
+
+
+![Swapping Fedora release packages](/assets/images/fedorakde.png)
