@@ -2,6 +2,7 @@
 layout: post
 title: Switching from Gnome to KDE on Fedora Easily and Seamlessly
 date: 2025-05-28
+description: Switch from Gnome to KDE on Fedora 42
 tag: Computers
 ---
 ### Introduction
