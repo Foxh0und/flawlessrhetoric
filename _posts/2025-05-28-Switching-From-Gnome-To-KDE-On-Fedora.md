@@ -44,6 +44,8 @@ sudo dnf swap -y fedora-release-workstation fedora-release-kde
 sudo dnf swap -y fedora-release-identity-workstation fedora-release-identity-kde
 ```
 
+<br><br>
+
 You're also probably going to want to restart now, and boot into KDE.
 
 <br><br>
