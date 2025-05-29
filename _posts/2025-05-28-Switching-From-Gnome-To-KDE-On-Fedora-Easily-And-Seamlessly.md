@@ -5,12 +5,17 @@ date: 2025-05-28
 description: Switch from Gnome to KDE on Fedora 42
 tag: Computers
 ---
+<br>
 ### Introduction
 I've been contemplating moving from Gnome to KDE for a while now. I've been on Gnome for nearly 10 years. Most of my friends are on KDE, and I've been meaning to give it a try. I feel that Gnome has been lacking some features, and potentially support for a while now, and I haven't been super happy with my setup. Every time I upgrade, I always find myself having to muck around with plugins again, and I feel that it would be a pain to recreate what I had, which is still relatively standard.
 
 I didn't want to do a clean install and manually swap to the KDE Spin. I also couldn't find any complete instructions for doing exactly what I wanted, so I wrote these. I hope they help! 
 
+<br>
+
 ### Instructions
+
+<br>
 
 ## 🧰 Step 1: Install KDE
 
@@ -27,6 +32,8 @@ sudo systemctl enable sddm --force
 sudo systemctl set-default graphical.target
 ```
 
+<br>
+
 ## 🔁 Step 2: Switch Fedora Identity to KDE
 
 Fedora uses different identity packages depending on the desktop spin. I swapped mine from GNOME Workstation to KDE:
@@ -35,6 +42,8 @@ Fedora uses different identity packages depending on the desktop spin. I swapped
 sudo dnf swap -y fedora-release-workstation fedora-release-kde
 sudo dnf swap -y fedora-release-identity-workstation fedora-release-identity-kde
 ```
+
+<br>
 
 ## 🧼 Step 3: Remove GNOME Packages
 
@@ -64,6 +73,8 @@ And list any remaining GNOME packages:
 dnf list installed | grep gnome
 ```
 
+<br>
+
 ## 🧹 Step 4: Remove Leftover GNOME Configs
 
 Clear out user-specific GNOME settings and cached data:
@@ -76,6 +87,8 @@ rm -rf ~/.config/dconf
 rm -rf ~/.dbus
 rm -rf ~/.themes ~/.icons ~/.fonts ~/.gtkrc*
 ```
+
+<br>
 
 ## ⚙️ Step 5: Disable GDM and Final Cleanup
 
@@ -106,6 +119,8 @@ sudo rm /usr/share/xsessions/gnome.desktop
 sudo rm /usr/share/wayland-sessions/gnome.desktop
 ```
 
+<br>
+
 ## 🌐 Step 6: Remove GNOME Shell Integration Extension
 
 If you used the GNOME Shell browser integration (Firefox/Chrome), remove it:
@@ -115,6 +130,8 @@ flatpak uninstall org.gnome.Extensions
 ```
 
 Or remove the extension from your browser manually.
+
+<br>
 
 ## ✅ All Done
 
