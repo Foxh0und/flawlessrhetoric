@@ -474,3 +474,32 @@ footer {
   /* Remove fixed dimensions to allow natural sizing */
   width: 100%;
 }
+
+/* Blog post content improvements */
+div.content .post .body h1,
+div.content .post .body h2,
+div.content .post .body h3,
+div.content .post .body h4,
+div.content .post .body h5,
+div.content .post .body h6 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+/* Add breathing room for paragraphs, blockquotes, lists, and code */
+div.content .post .body p,
+div.content .post .body blockquote,
+div.content .post .body ul,
+div.content .post .body ol,
+div.content .post .body pre {
+  margin-bottom: 1.25rem;
+}
+
+/* Fix image spacing in blog posts */
+div.content .post .body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto 0.5rem auto;
+}
