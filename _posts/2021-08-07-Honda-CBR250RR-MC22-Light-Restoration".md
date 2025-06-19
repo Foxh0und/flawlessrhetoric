@@ -74,14 +74,12 @@ All three calipers had new seals and pads installed, both master cylinders were 
 
 ![Imgur](https://i.imgur.com/hNiXk3L.jpg)
 
-<br>
 
 I am extremely pleased with the way the bike came out, it now rides like a new machine, and looks fantastic. I'm very much looking forward to restrictions lifting and summer arriving to enjoy this more.
 
 
 ![Imgur](https://i.imgur.com/trG9DGU.jpg)
 
-<br>
 
 
 A special thanks to Omar from XCite Bikes, where I purchased all my parts for his help, and my friend Illya for a few pointers, but most of all, a special thanks to my Dad for all his time, effort and patience when helping me restore this.

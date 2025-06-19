@@ -9,7 +9,6 @@ In August of 2016 I walked into Student flights to decide where I would go to in
 but was pointed in the direction of Russia, somewhere that has always interested me. I was at first a little hesitant to do the Vodka
 Train, due to the fact that it was group travel, and I'm more of a solo traveller, and also because it veered into Mongolia and Beijing,
 whereas I usually like to stick to a single country at a time.
-<br><br>
 
 Come June of this year, I jumped on a plane bound for St Petersburg, and my adventure began. Whilst I did book a group experience, I was quite relieved to find out that I was actually still by myself, as no one had picked to go on the dates I did.
 
@@ -117,9 +116,7 @@ Gunjiin Sum Monastery provided some magnificent views.
 ![Tiananmen Square](https://i.imgur.com/6AHXYkm.jpg)
 Last stop, Beijing. Here is Tiananmen Square.
 
-<br><br>
 I really loved Beijing, which I was not expecting to. Besides the almost unbearable July humidity, the city was wonderful. I stayed in a hutong that was wonderful, and really loved it. It was a highlight of a wonderful journey.
-<br><br>
 
 ![Great Wall](https://i.imgur.com/G3bSRPQ.jpg)
 Thankfully better than the movie bearing the same name. A great section, and can still see miles ahead even with the clouds coming in.
@@ -139,8 +136,6 @@ I really loved the Temple of Heaven
 ![Forbidden City](https://i.imgur.com/JagX6n4.jpg)
 The Forbidden City, situated just behind Tiananmen Squre is a huge complex and definitely a highlight of the trip.
 
-<br><br>
 It was a wonderful journey that I will never forget. Whilstt I was quite apprehensive about Mongolia and Beijing, they ended up being wonderful experiences. I highly recommend anyone thinking about going on this trip to do so. I also would like to thank Nick at Student Flights in Knox for his help with booking the trip.
-<br><br>
 
 ![map](https://www.trans-siberian.com.au/wp-content/uploads/2015/04/maptranssib_01.jpg)

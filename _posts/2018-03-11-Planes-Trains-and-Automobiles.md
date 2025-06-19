@@ -10,7 +10,6 @@ as it is not a popular destination for tourists. We were looking for somewhere t
 travelling too for two weeks. Lucie had suggested Taiwan, and had wanted to go there ever since listening to two podcasts from 99% Invisible, [Separation Anxiety](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0ahUKEwijtoao5-PZAhWEVLwKHaApBtgQFgg8MAQ&url=https%3A%2F%2F99percentinvisible.org%2Fepisode%2Fseparation-anxiety%2F&usg=AOvVaw2UGBWeF-4EHcIogyAGCkJ2), and [Supertall 101](https://99percentinvisible.org/episode/supertall-101/).
 The first talks about Taiwan's unique culture around recycling and rubbish, and the second about the type of bolts used in Taipei 101, 
 and how they built it. They are both very interesting, and I highly recommend listening to them both.
-<br><br>
 
 ![Taipei Streets](https://i.imgur.com/F5fsfBu.jpg)
 First stop, Taipei City! It was such a cool and vibrant place, and extremely clean thanks to the initiatives mentioned in the first podcast.
