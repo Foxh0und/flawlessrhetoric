@@ -12,11 +12,8 @@ I've been contemplating moving from Gnome to KDE for a while now. I've been on G
 
 I didn't want to do a clean install and manually swap to the KDE Spin. I also couldn't find any complete instructions for doing exactly what I wanted, so I wrote these. I hope they help! 
 
-<br><br>
-
 ### Instructions
 
-<br><br>
 
 #### 🧰 Step 1: Install KDE
 
@@ -33,8 +30,6 @@ sudo systemctl enable sddm --force
 sudo systemctl set-default graphical.target
 ```
 
-<br><br>
-
 #### 🔁 Step 2: Switch Fedora Identity to KDE
 
 Fedora uses different identity packages depending on the desktop spin. I swapped mine from GNOME Workstation to KDE:
@@ -44,11 +39,7 @@ sudo dnf swap -y fedora-release-workstation fedora-release-kde
 sudo dnf swap -y fedora-release-identity-workstation fedora-release-identity-kde
 ```
 
-<br><br>
-
 You're also probably going to want to restart now, and boot into KDE.
-
-<br><br>
 
 #### 🧼 Step 3: Remove GNOME Packages
 
@@ -78,8 +69,6 @@ And list any remaining GNOME packages:
 dnf list installed | grep gnome
 ```
 
-<br>
-
 #### 🧹 Step 4: Remove Leftover GNOME Configs
 
 Clear out user-specific GNOME settings and cached data:
@@ -92,8 +81,6 @@ rm -rf ~/.config/dconf
 rm -rf ~/.dbus
 rm -rf ~/.themes ~/.icons ~/.fonts ~/.gtkrc*
 ```
-
-<br><br>
 
 #### ⚙️ Step 5: Disable GDM and Final Cleanup
 
@@ -124,8 +111,6 @@ sudo rm /usr/share/xsessions/gnome.desktop
 sudo rm /usr/share/wayland-sessions/gnome.desktop
 ```
 
-<br><br>
-
 #### 🌐 Step 6: Remove GNOME Shell Integration Extension
 
 If you used the GNOME Shell browser integration (Firefox/Chrome), remove it:
@@ -135,8 +120,6 @@ flatpak uninstall org.gnome.Extensions
 ```
 
 Or remove the extension from your browser manually.
-
-<br><br>
 
 #### ✅ All Done
 
