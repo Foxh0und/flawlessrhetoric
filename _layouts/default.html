@@ -54,6 +54,35 @@
     <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}">
     {% endif %}
     <script>window.initFuncs = [];</script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('pre > code').forEach(codeBlock => {
+          const pre = codeBlock.parentNode;
+          const button = document.createElement('button');
+          button.innerText = 'copy';
+          button.style.position = 'absolute';
+          button.style.top = '6px';
+          button.style.right = '6px';
+          button.style.padding = '2px 6px';
+          button.style.fontSize = '0.75em';
+          button.style.cursor = 'pointer';
+          button.style.background = '#eee';
+          button.style.border = '1px solid #ccc';
+          button.style.borderRadius = '3px';
+
+          pre.style.position = 'relative';
+          pre.appendChild(button);
+
+          button.addEventListener('click', () => {
+            navigator.clipboard.writeText(codeBlock.innerText).then(() => {
+              button.innerText = 'copied!';
+              setTimeout(() => button.innerText = 'copy', 1500);
+            });
+          });
+        });
+      });
+    </script>
+
   </head>
   <body{% if page.wide_layout %} class="wide"{% endif %}>
     <header{% unless page.date %} class="main"{% endunless %}>

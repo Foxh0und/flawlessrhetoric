@@ -274,20 +274,58 @@ div.content.photo {
   }
 
   div.content pre {
-    line-height:1.25;
-    overflow-x: visible;
-    color: #333;
-    padding:16px;
+  line-height: 1.4;
+  overflow-x: auto; /* allows scroll if needed */
+  color: #333;
+  padding: 16px;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+  font-family: inherit;
+  font-size: 0.95em;
+  white-space: pre-wrap; /* <- key fix */
+  word-break: break-word;
   }
 
   div.content code {
-    padding:3px 0;
+  padding: 0 3px;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+  font-family: inherit;
+  font-size: 0.95em;
+  white-space: normal;
   }
-  div.content code::before,
-  div.content code::after {
-    letter-spacing: -0.2em;
-    content: "\00a0";
+
+  
+  div.content p > code {
+    padding: 0 3px;
+    background-color: rgba(0,0,0,0.04);
+    border-radius: 3px;
+    font-family: inherit;
+    font-size: 0.95em;
+    white-space: normal;
   }
+
+  div.content pre {
+    background-color: rgba(0,0,0,0.04);
+    border-radius: 3px;
+    padding: 1em;
+    line-height: 1.4;
+    overflow-x: auto;
+    font-family: inherit;
+    font-size: 0.95em;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  div.content pre code {
+    background: none;
+    padding: 0;
+    border: none;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: inherit;
+  }
+
 
   div.content pre > code {
     padding:0;
