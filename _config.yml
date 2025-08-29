@@ -14,6 +14,12 @@ kramdown:
   # transliterated_header_ids: true
   syntax_highlighter_opts:
     disable: true
+
+# Pagination settings
+paginate: 20                # posts per page
+paginate_path: "/page:num/" # URLs for additional pages
+
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-paginate
