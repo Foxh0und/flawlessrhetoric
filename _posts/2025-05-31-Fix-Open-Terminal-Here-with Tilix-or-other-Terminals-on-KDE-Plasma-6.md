@@ -2,6 +2,7 @@
 layout: post
 title: Fix "Open Terminal Here" with Tilix or other Terminals on KDE Plasma 6 (Fedora 42)
 date: 2025-05-30
+description: From the browser to the terminal in just two clicks
 tag: computers
 ---
 ### Introduction
