@@ -3,7 +3,7 @@ layout: post
 title: Fix "Open Terminal Here" with Tilix or other Terminals on KDE Plasma 6 (Fedora 42)
 date: 2025-05-30
 description: From the browser to the terminal in just two clicks
-tag: computers
+tag: Computers
 ---
 ### Introduction
 After uninstalling Konsole and switching to Tilix on KDE Plasma 6 (Fedora 42), I found that right-clicking and choosing "Open Terminal Here" - whether on the desktop or in Dolphin - did not open anything, even after setting the default terminal in KDE's system settings. You can also use this with any other terminal of your choice.
