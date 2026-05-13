@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux Gaming
-date: 2026-05-13
+date: 2026-05-12
 description: Migrating from Windows in 2026
 tag: computers
 ---
