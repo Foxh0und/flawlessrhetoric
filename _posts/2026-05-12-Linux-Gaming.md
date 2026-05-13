@@ -1,16 +1,16 @@
----
+
 layout: post
 title: Linux Gaming
 date: 2026-05-12
 description: Migrating from Windows in 2026
 tag: Computers
----
+
 
 Roughly six months ago, I started gaming on Linux. I'd read several articles about it, heard lots about Proton, and several friends were now doing it, completely dodging Windows. I've been dual booting since 2017 when I [built my first Ryzen based PC](https://www.flawlessrhetoric.com/Ryzen), and my most recent build in 2023 is the same, Fedora and Windows 10. I use Fedora for everything bar gaming, and Windows for only that. Dual booting can get annoying, but it's worked really well for the most part.
 
 With Microsoft announcing more and more Copilot integrations, everything becoming a subscription, and my PC feeling like one big advertisement I decided to make a change. It was relatively straight forward, I did some searching, and made some changes to my machine (detailed below), and installed Steam. I didn't blow my Windows drive away, and kept it in case I 
 
-I was currently playing God of War: Raganarok, and installed that. I had anticipated that being a Playstation game, albeit a near flawless port, it would be problematic, but this was far from the case. The game is marked 'Gold' on (ProtonDB)[https://www.protondb.com/app/2322010], meaning that it 'runs perfectly well after tweaks'. After adding a single line to the launch options, it ran perfectly, with no discernable difference to Windows. I have since played Team Fortress 2 (a native Windows game) and HellDivers 2, both of which were fine. This week I purchased Stalker 2: Heart of Chernobyl (marked Platinum), and despite all it's well documented bugs runs perfectly. 
+I was currently playing God of War: Ragnarok, and installed that. I had anticipated that being a Playstation game, albeit a near flawless port, it would be problematic, but this was far from the case. The game is marked 'Gold' on [ProtonDB](https://www.protondb.com/app/2322010), meaning that it 'runs perfectly well after tweaks'. After adding a single line to the launch options, it ran perfectly, with no discernable difference to Windows. I have since played Team Fortress 2 (a native Windows game) and HellDivers 2, both of which were fine. This week I purchased Stalker 2: Heart of Chernobyl (marked Platinum), and despite all it's well documented bugs runs perfectly. 
 
 The only time the machine needed tinkering was with the fan profiles which were running too loud. I now manage that simply through [LACT](https://github.com/ilya-zlobintsev/LACT). Using an AMD GPU is also much easier with Linux, having everything come out of the box. I'm really looking forward what Proton 11 (bringing the [vast improvements that Wine 11 accomplished](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)) can do.
 
@@ -42,7 +42,6 @@ This showed two devices:
 
 Steam + Proton automatically use GPU 0 through RADV.
 
----
 
 ### **2. Installing and Enabling GameMode**
 
@@ -68,7 +67,6 @@ I also learned that GameMode temporarily sets the system to **performance**, so 
 powerprofilesctl set balanced
 ```
 
----
 
 ### **3. Monitoring Temps with MangoHud**
 
@@ -91,7 +89,6 @@ This overlay confirms:
 * GameMode status
 * GPU junction/mem temps
 
----
 
 ### **4. Using LACT for Quiet Gaming**
 
@@ -117,7 +114,6 @@ This kept junction temps in sane ranges:
 * Memory: ~75–82°C
 * Edge: 55–65°C
 
----
 
 ### **5. Proton (10), Proton Experimental, and Proton-GE**
 
@@ -143,7 +139,6 @@ I experimented with different Proton versions.
 
 I switched from **Proton Experimental** → **Proton 10** for stability and cooler behaviour.
 
----
 
 ### **6. Temperature Analysis with `sensors`**
 
@@ -163,7 +158,6 @@ Example output showed:
 
 After LACT tuning, noise was significantly lower.
 
----
 
 ### **7. Final Configuration**
 
@@ -197,7 +191,6 @@ Using **Proton 10** for most games.
 * Stable FPS
 * GPU properly utilised
 
----
 
 ### **Conclusion**
 
