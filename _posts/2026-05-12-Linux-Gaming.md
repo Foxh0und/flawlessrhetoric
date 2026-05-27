@@ -1,9 +1,10 @@
-
+---
 layout: post
 title: Linux Gaming
 date: 2026-05-12
 description: Migrating from Windows in 2026
 tag: Computers
+---
 
 
 Roughly six months ago, I started gaming on Linux. I'd read several articles about it, heard lots about Proton, and several friends were now doing it, completely dodging Windows. I've been dual booting since 2017 when I [built my first Ryzen based PC](https://www.flawlessrhetoric.com/Ryzen), and my most recent build in 2023 is the same, Fedora and Windows 10. I use Fedora for everything bar gaming, and Windows for only that. Dual booting can get annoying, but it's worked really well for the most part.
